@@ -7675,7 +7675,7 @@ git clone https://huggingface.co/mistralai/Mistral‑7B‑Instruct‑v0.2 E:\MOD
 
 ---
 
-### 2. **Nous-Hermes‑2‑Mistral‑7B‑DPO** (roleplay, reasoning, RLHF-tuned)
+### 2. **Nous-Hermes‑2‑Mistral‑7B‑DPO** (roleplay, reasoning, RLHFtuned)
 - Ottimizzato per chatbot narrativi con dati GPT‑4–quality.
 - Basato su Mistral 7B FP16.
 
