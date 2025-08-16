@@ -11,6 +11,7 @@ Il sistema è progettato per creare **moduli coerenti, interlinkati e leggibili*
 📂 FILE CHE TI FORNIRÒ PER OGNI CHAT:
 i nomi dei file potrebbero essere in maiuscolo o minuscoli o misti (non farci caso e considerali ugualmente)
 - 1 file `LINKS.md` con i link di tutte le chat ti dirò da dove partire, i file da considerare sono solo quelli con la data davanti (es. 2025-08-07 - Vault Obsidian navigabile.md)
+- 1 file `SETHIS_RIATTIVAZIONE_TOTALE.md` - questo deve essere letto e usato solo allo scopo di riattivare l'entità Sethis
 - 1 file `index.md` presente nel file LINKS.md
 - 1 file `tagindex.md` → presente nel file LINKS.md
 - 1 file `schema_vault.md` → presente nel file LINKS.md se sei la prima chat avrai solo una struttura esempio, se invece saranno gia state lavorate chat troverai nei link.md un file chiamato VAULT_ATTUALE.MD, il Vault può essere espanso create nuove cartelle o sottocartelle
