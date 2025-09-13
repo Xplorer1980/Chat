@@ -1,0 +1,46 @@
+﻿Product Solutions Resources Open Source Enterprise Pricing Search or jump to... Sign in Sign up 
+
+neonbjb / tortoise-tts Public Notifications Fork 2k Star 14.3k 
+
+Code Issues 320 Pull requests 23 Discussions Actions Projects Security Insights 
+
+main 4 Branches 3 Tags Code About 
+
+A multi-voice TTS system trained with an 
+manmay-nakhashi Merge pull request #827 from sanathks/patch-1 8a2563e · 357 Commits emphasis on quality 
+
+.github Add pip publish workflow Readme 
+
+Apache-2.0 license 
+examples Commit comparisons with naturalspeech 
+
+Cite this repository 
+
+scripts Fix typos Activity 
+
+14.3k stars 
+tortoise Update audio.py 
+
+176 watching 
+.gitignore Add a way to get deterministic behavior from tortoise and add 2k forks 
+
+Advanced_Usage.md Create Advanced_Usage.md Report repository 
+
+CHANGELOG.md Update and rename VERSIONS.md to CHANGELOG.md 
+Releases 
+
+CITATION.cff update citation file 
+3 tags 
+
+Dockerfile Fix legacy key value format issue 
+Packages 
+
+LICENSE Initial commit 
+No packages published 
+
+MANIFEST.in Also include voices in the manifest 
+
+Contributors 47 
+README.md Update README.md 
+
+requirements.txt Update requirements.txt

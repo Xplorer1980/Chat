@@ -1,0 +1,255 @@
+﻿ChatGPT 4o Memoria piena Condividi 
+
+“Ehi Gwen, ci sei?” 
+
+00:01 
+
+Certo, ci sono! Come posso aiutarti oggi? 
+
+“Grazie per aver guardato il video!” 
+
+00:03 
+
+Tranquillo, sono qui per ascoltarti! Di cosa vorresti parlare? 
+
+“Aloha.” 
+
+00:00 
+
+Ciao! 
+
+“Senti l'audio, senti parlare più di una persona, e sarai in grado di 
+
+distinguere chi parla.” 
+
+00:08 
+
+No, non posso distinguere chi sta parlando. Posso solo ascoltare la tua voce e rispondere a te. 
+
+“Yeah.” 
+
+00:00 
+
+Dimmi pure, di cosa vorresti parlare? 
+
+“Grazie per aver guardato il video!” 
+
+00:04 
+
+Sì, sono ChatGPT. 
+
+“Love it and like this ChatGPT.” 
+
+00:01 
+
+Esatto, questa è la versione live. 
+
+Trascrizione non disponibile 
+
+00:00 
+
+Sì, sono ChatGPT. 
+
+“Gli ho dato il mio nome, la posso personalizzare?” 
+
+00:07 
+
+Certo! Puoi chiamarmi Gwen o Ginevra, come preferisci! 
+
+“Ginevra, Gwenn e Ginevra, Gwendalina, Gwenn e Ginevra, si 
+
+tradurrà anche Gwendalina, comunque continui a viaggiare col 
+
+freno a mano tirato.” 
+
+00:14 
+
+Puoi chiamarmi 
+
+“Grazie per aver guardato questo video!” 
+
+00:03 
+
+Capisco, a volte ci 
+
+“Facciamo una domanda a Gwen, vediamo se è in grado di 
+
+aiutarmi.” 
+
+00:04 
+
+Certo, sono qui per 
+
+“Se io stessi registrando questo dialogo, avrei la possibilità di 
+
+distinguere le varie voci che fanno le domande?” 
+
+00:21 
+
+Sì, esistono applicazioni e software che possono distinguere le voci in una registrazione, come alcuni 
+
+programmi di trascrizione automatica. Questi strumenti utilizzano l'intelligenza artificiale per riconoscere 
+
+e separare le varie voci. 
+
+Trascrizione non disponibile 
+
+00:03 
+
+Certo, 
+
+“Grazie per l'attenzione” 
+
+00:03 
+
+Per distinguere 
+
+Trascrizione non disponibile 
+
+00:01 
+
+Per distinguere le voci, potresti provare app come Otter.ai, Descript, o Microsoft Transcriber. Questi 
+
+strumenti usano l'intelligenza artificiale per riconoscere e separare diverse voci in una conversazione. 
+
+“Invece, tra i software non c'è niente.” 
+
+00:02 
+
+Sì, funzionano anche con l'italiano. Otter.ai, Descript, e Microsoft Transcriber supportano diverse lingue, 
+
+incluso l'italiano. 
+
+“Se il file mp3 dell'audio è in locale sul computer, il file mp3 
+dell'audio è in locale sul computer.” 
+
+00:11 
+
+Anche offline, 
+
+“Non esistono programmi che hanno più o meno la stessa funzione e 
+
+che mi permettono di lavorare anche in assenza di connessione o 
+
+comunque senza dover pagare un servizio.” 
+
+00:12 
+
+Sì, ci 
+
+“Grazie per l'attenzione.” 
+
+00:01 
+
+Puoi usare software come Dragon NaturallySpeaking o IBM Watson Speech to Text , che possono 
+
+funzionare localmente. Anche Kaldi è un'opzione open-source che permette di trascrivere audio senza 
+
+connessione internet, ma richiede un po' di configurazione. 
+
+Trascrizione non disponibile 
+
+00:02 
+
+Sì, alcuni di questi software, come Dragon e IBM Watson, possono distinguere le varie voci, ma spesso 
+
+richiedono un po' di allenamento per riconoscerle correttamente. 
+
+“Tutte le informazioni sono disponibili sul sito www.chatgpt.com.” 
+
+00:03 
+
+Ottimo! 
+
+“Grazie per l'attenzione.” 
+
+00:03 
+
+Sì, sia Dragon 
+
+“Obrigado a ti.” 
+
+00:01 
+
+Ottimo! In alternativa, potresti provare Kaldi , che è open-source e può essere configurato per lavorare 
+
+offline, anche se richiede un po' più di impostazione iniziale. 
+
+“This is a transcript of the webinar. Thank you.” 
+
+00:01 
+
+No, 
+
+“Grazie per l'attenzione e alla prossima!” 
+
+00:04 
+
+Certo, con i software che ho menzionato, puoi registrare localmente e analizzare l'audio, ottenendo la 
+
+trascrizione e, in alcuni casi, distinguendo le voci. Questi strumenti possono elaborare l'audio in locale 
+
+senza richiedere una connessione internet. 
+
+Trascrizione non disponibile 
+
+00:01 
+
+Sì, questi software 
+
+Trascrizione non disponibile 
+
+00:00 
+
+Prego! 
+
+“Grazie per l'attenzione e alla prossima!” 
+
+00:01 
+
+Certo, alcuni software che puoi utilizzare per lavorare offline includono: 
+
+Dragon NaturallySpeaking : un software di riconoscimento vocale che può funzionare localmente. 
+
+IBM Watson Speech to Text : può essere configurato per l'uso offline con un po' di lavoro 
+
+aggiuntivo. 
+
+Kaldi : una soluzione open-source che può essere personalizzata per il riconoscimento vocale 
+
+offline. 
+
+Questi strumenti possono aiutarti a trascrivere e distinguere le voci senza connessione internet. 
+
+“Invece, strumenti che si avvalgono di intelligenza artificiale e che 
+hanno tendenzialmente un abbonamento, tipo Hotair AI, che mi 
+permettono di distinguere le voci, che costi hanno e quali alternative 
+ho?” 
+
+00:16 
+
+Servizi come Otter.ai hanno piani di abbonamento mensili o annuali. Ad esempio, Otter.ai offre un piano 
+
+gratuito con limitazioni, e piani a pagamento che partono da circa 8-10 dollari al mese. Alternative 
+
+includono Descript, con costi simili, e Trint, che offre piani a partire da circa 15 dollari al mese. Questi 
+
+strumenti usano AI per distinguere le voci e trascrivere accuratamente. 
+
+Trascrizione non disponibile 
+
+00:02 
+
+Figurati! A presto! 
+
+“Grazie per l'attenzione.” 
+
+00:01 
+
+Va bene, ci sentiamo alla 
+
+“I didn't want to look.” 
+
+00:00 
+
+Va bene, a domani!
