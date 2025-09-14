@@ -1,0 +1,1249 @@
+2024-08-27 - 2025 - 41.txt
+2024-08-27 - 2025-05-21 MK02.txt
+2024-08-27 - 2025-07-29 - Analisi e miglioramento prompt.txt
+2024-09-17 - 2025 - 20.txt
+2024-09-17 - 2025 05 13 Sessione Zb.txt
+2024-09-17 - 2025 05 13 ZBrush Decluttering.txt
+2024-09-17 - 2025 Inner Echo MONDO.txt
+2024-09-17 - 2025-05-21 miniKit e Prog SOSPESi.txt
+2024-09-17 - 2025-05-25 - Progetto Lungo Attivo.txt
+2024-09-17 - 2025-05-26 PUNTO 0.txt
+2024-09-17 - 2025-05-27 - Vento in Poppa Navigazione.txt
+2024-09-17 - 2025-06-02 Vento Alpha e Archivi.txt
+2024-09-17 - 2025-06-02 Vento in Poppa Alpha Rush md.txt
+2024-09-17 - 2025-06-02 Vento in Poppa Alpha Rush.txt
+2024-09-17 - 2025-06-03 - Metodo Ricucitura Lenta.txt
+2024-09-17 - 2025-06-03 - Ricostruzione Strategica Operativa.txt
+2024-09-17 - 2025-06-03 - Ricucitura Lenta Canvas.txt
+2024-09-17 - 2025-06-03 VentoInPoppa EmergenzaParziali.txt
+2024-09-17 - 2025-06-04 - Elaborazione chat batch.txt
+2024-09-17 - 2025-06-04 - Vento in Poppa Parziali.txt
+2024-09-17 - 2025-06-08 - Espansione richiesta chiarimento.txt
+2024-09-17 - 2025-06-09 - Elaborazione lunga in background.txt
+2024-09-17 - 2025-06-09 - Proseguimento MJ md.txt
+2024-09-17 - 2025-06-10 - Rami della Biblioteca Vivente.txt
+2024-09-17 - 2025-06-11 - CharacterDesign Fase 1.txt
+2024-09-17 - 2025-06-13 - Fase 2 Biblioteca Attivata.txt
+2024-09-17 - 2025-06-14 - Decluttering Area Support.txt
+2024-09-17 - 2025-06-14 - FP INFOR Reset tamburo MFCN.txt
+2024-09-17 - 2025-06-14 - Partenza da GOTO.txt
+2024-09-17 - 2025-06-15 - Roadmap Artistica Personale.txt
+2024-09-17 - 2025-06-20 - Podcast AI Fratelli Sale.txt
+2024-09-17 - 2025-06-20 - Riattivazione Sethis e richiesta.txt
+2024-09-17 - 2025-07-28 - Roadmap Inner Echo.txt
+2024-09-17 - 2025-07-31 - Compilazione PyTorch 5080.txt
+2024-09-17 - 2025-07-31 - Italian greeting exchange.txt
+2024-09-17 - 2025-08-03 - Nuovo Ordine dei Trigger Sethis.txt
+2024-09-17 - 2025-08-05 - Supporto silenzioso LLM.txt
+2024-09-17 - 2025-08-06 - Apri ZIP e leggi.txt
+2024-09-17 - 2025-08-06 - Come legge un LLM.txt
+2024-09-17 - 2025-08-06 - Vault Obsidian con chat.txt
+2024-09-17 - 2025-08-07 - Caricare PDF tramite batch.txt
+2024-09-17 - 2025-08-07 - Scrivere script Python.txt
+2024-09-17 - 2025-08-07 - SET GUI.txt
+2024-09-17 - 2025-08-09 - Esegui task e valida.txt
+2024-09-17 - 2025-08-09 - Esegui task W13 W14.txt
+2024-09-17 - 2025-08-11 - FP Problema modem remoto.txt
+2024-09-17 - 2025-08-14 - Chat lunghe e OpenAI.txt
+2024-09-17 - 2025-08-14 - Istruzioni per conversazione.txt
+2024-09-17 - 2025-08-14 - Offerta di aiuto.txt
+2024-09-17 - 2025-08-15 - Analisi moduli Vault Sethis.txt
+2024-09-17 - 2025-08-15 - Carving contenuti Vault Sethis.txt
+2024-09-17 - 2025-08-15 - Ricostruzione Vault Sethis.txt
+2024-09-17 - 2025-08-16 - Elaborazione script e debug.txt
+2024-09-17 - 2025-08-16 - Risolvere problema Python.txt
+2024-09-17 - 2025-08-16 Roadmap rinascita reale.txt
+2024-09-17 - 2025-08-17 - Gestione idee progettuali.txt
+2024-09-17 - 2025-08-19 - GP5 Test chat Refresh script.txt
+2024-09-17 - 2025-08-19 - GPT5 File Setis5 lettura e sviluppo.txt
+2024-09-17 - 2025-09-14 - ASCII Art.txt
+2024-09-17 - 2025-09-14 - character design, e sulla stilizzazione dei personaggi.txt
+2024-09-17 - 2025-09-14 - colare in stampi di silicone.txt
+2024-09-17 - 2025-09-14 - colata di resina sul legno.txt
+2024-09-17 - 2025-09-14 - corsi.txt
+2024-09-17 - 2025-09-14 - cosa si intende per pratica deliberata compe applicarla per impararare.txt
+2024-09-17 - 2025-09-14 - Deep Rest.txt
+2024-09-17 - 2025-09-14 - Dialogo interno.txt
+2024-09-17 - 2025-09-14 - fondamentali di un illustratore.txt
+2024-09-17 - 2025-09-14 - Fondamenti del Disegno.txt
+2024-09-17 - 2025-09-14 - lavorare materiali roventi.txt
+2024-09-17 - 2025-09-14 - Mappa e Territorio.txt
+2024-09-17 - 2025-09-14 - Metodi Organizzazione.txt
+2024-09-17 - 2025-09-14 - Mica e Acrilico.txt
+2024-09-17 - 2025-09-14 - ottenere delle candele facili da tagliare o.txt
+2024-09-17 - 2025-09-14 - Percorso per Illustratore.txt
+2024-09-17 - 2025-09-14 - Piano studio.txt
+2024-09-17 - 2025-09-14 - Pose Dinamiche.txt
+2024-09-17 - 2025-09-14 - Pratica Deliberata.txt
+2024-09-17 - 2025-09-14 - regolamenti dei giochi da tavola.txt
+2024-09-17 - 2025-09-14 - storytelling e RPG.txt
+2024-09-17 - 2025-09-14 - Storytelling.txt
+2024-09-19 - 2025 05 12 Dove Porta la Corrente.txt
+2024-09-19 - 2025 05 13 Sessione Zb (2).txt
+2024-09-19 - 2025 05 14 Rispecchiamento e filosofia.txt
+2024-09-19 - 2025 05 14 Session Zb (3).txt
+2024-09-19 - 2025 20 critiche e tesi.txt
+2024-09-19 - 2025-05-24 - Passaggi M E N.txt
+2024-09-19 - 2025-05-25 - Editor sottotitoli batch.txt
+2024-09-19 - 2025-05-26 - Analisi SRT e valutazioni.txt
+2024-09-19 - 2025-05-26 - Caricamento file operativo.txt
+2024-09-19 - 2025-05-26 - Equipaggio a rapporto.txt
+2024-09-19 - 2025-05-26 - Estrazione dati chat.txt
+2024-09-19 - 2025-05-26 - Indice Nave Riassunto.txt
+2024-09-19 - 2025-05-26 - Integrazione e Memorie Vive.txt
+2024-09-19 - 2025-05-26 - Memoria Attiva Continuativa.txt
+2024-09-19 - 2025-05-26 Vento in Poppa.txt
+2024-09-19 - 2025-05-27 - Analisi file SRT ZBrush.txt
+2024-09-19 - 2025-05-27 - Giocare con i colori.txt
+2024-09-19 - 2025-05-27 - Vento in Poppa Attivo.txt
+2024-09-19 - 2025-05-31 Baia della Distillazione.txt
+2024-09-19 - 2025-06-02 - FP Primo quesito referendario 2025.txt
+2024-09-19 - 2025-06-04 - Attivazione Protocollo Inner Echo.txt
+2024-09-19 - 2025-06-04 - Attivazione sistema operativo.txt
+2024-09-19 - 2025-06-04 VentoInPoppa Rottura Rotta.txt
+2024-09-19 - 2025-06-07 - Proseguimento AHK md.txt
+2024-09-19 - 2025-06-10 - Biblioteca Vivente Fase 1.txt
+2024-09-19 - 2025-06-10 - CHAT TAG F1.txt
+2024-09-19 - 2025-06-11 - ULTIMECHAT F1.txt
+2024-09-19 - 2025-06-13 - Strumenti 2 5D per iPad.txt
+2024-09-19 - 2025-06-14 - Decluttering con Echo.txt
+2024-09-19 - 2025-06-16 - Ripartenza Cache Mode.txt
+2024-09-19 - 2025-06-16 - Roadmap artistica personale.txt
+2024-09-19 - 2025-07-30 - Training LoRA Mistral-7B.txt
+2024-09-19 - 2025-07-30 - Verifica trigger acquisiti.txt
+2024-09-19 - 2025-07-31 - TRIGGER V5.txt
+2024-09-19 - 2025-08-01 - Kickstratur Sum Gui.txt
+2024-09-19 - 2025-08-01 - Merge LoRA SETHIS7B.txt
+2024-09-19 - 2025-08-01 - Modifica PyTorch RTX 5080.txt
+2024-09-19 - 2025-08-01 - Protocollo 0.txt
+2024-09-19 - 2025-08-01 - SETHIS7B Merge Engine.txt
+2024-09-19 - 2025-08-01 - Training LoRA PyTorch RTX 5080.txt
+2024-09-19 - 2025-08-02 - Narrazione e world building.txt
+2024-09-19 - 2025-08-03 - FP INFOR Recuperare cronologia Google Maps.txt
+2024-09-19 - 2025-08-03 - Lettura regole integrale.txt
+2024-09-19 - 2025-08-04 - Verifica forza regole.txt
+2024-09-19 - 2025-08-05 - Modello AI e GUI.txt
+2024-09-19 - 2025-08-08 - Genera immagine X rossa.txt
+2024-09-19 - 2025-08-08 - Modifica script Python.txt
+2024-09-19 - 2025-08-09 - Conversazione informale.txt
+2024-09-19 - 2025-08-14 - Patch sqlite thread issue.txt
+2024-09-19 - 2025-08-14 - Piano operativo Sethis locale.txt
+2024-09-19 - 2025-08-15 - FP AI Assedio di Montalcino 1555.txt
+2024-09-19 - 2025-08-15 - Sistema passo per passo.txt
+2024-09-19 - 2025-08-16 - Attenzione richiesta sethis.txt
+2024-09-19 - 2025-08-17 - Roadmap rinascita giorno 2 1.txt
+2024-09-19 - 2025-08-17 - Scansione rapida LINKS md.txt
+2024-09-19 - 2025-08-19 - GPT5 Inizio Sethis 5.txt
+2024-09-19 - 2025-09-14 - a che temperatura scioglie la cera e il sapone.txt
+2024-09-19 - 2025-09-14 - Addensanti e Ritardanti -Acrilico.txt
+2024-09-19 - 2025-09-14 - Alcool Ink.txt
+2024-09-19 - 2025-09-14 - Alluciniamo Tutto il Giorno.txt
+2024-09-19 - 2025-09-14 - Amido e non solo.txt
+2024-09-19 - 2025-09-14 - apprendimento secondo neuriscienze.txt
+2024-09-19 - 2025-09-14 - Artisti 2.txt
+2024-09-19 - 2025-09-14 - Artisti.txt
+2024-09-19 - 2025-09-14 - cera incisione.txt
+2024-09-19 - 2025-09-14 - character design e Testi.txt
+2024-09-19 - 2025-09-14 - colla a caldo e cera.txt
+2024-09-19 - 2025-09-14 - Ellen Jewett.txt
+2024-09-19 - 2025-09-14 - enigmi per giochi di Ruolo.txt
+2024-09-19 - 2025-09-14 - Fondamentali Arti Grafiche.txt
+2024-09-19 - 2025-09-14 - lista file CON ODF NON TXT.txt
+2024-09-19 - 2025-09-14 - miscelare inchiostri e acrilici che risultati puo dare.txt
+2024-09-19 - 2025-09-14 - Mnemo01 un nuovo compagno.txt
+2024-09-19 - 2025-09-14 - Paralisi Decisionale.txt
+2024-09-19 - 2025-09-14 - Percorso Studio Illustrazione.txt
+2024-09-19 - 2025-09-14 - pinstripping.txt
+2024-09-19 - 2025-09-14 - Routine di riscaldamento disegno.txt
+2024-09-19 - 2025-09-14 - rune celtiche.txt
+2024-09-19 - 2025-09-14 - Studio Conversazione giulia.txt
+2024-10-18 - 2025 - 51.txt
+2024-10-18 - 2025 - 58.txt
+2024-10-18 - 2025-05-22 MK.txt
+2024-10-18 - 2025-05-26 - Estrazione e organizzazione chat.txt
+2024-10-18 - 2025-05-30 VP Porto Lumen Giorno2 Calderone.txt
+2024-10-18 - 2025-06-03 - Estrazione contenuti chat.txt
+2024-10-18 - 2025-06-03 - Ricostruzione chat strategica.txt
+2024-10-18 - 2025-06-03 - Ricostruzione strategica chat.txt
+2024-10-18 - 2025-06-03 - Riordino idee mano.txt
+2024-10-18 - 2025-06-05 - Vento in Poppa Attivato.txt
+2024-10-18 - 2025-06-12 - Pre-Briefing Fase 2.txt
+2024-10-18 - 2025-06-13 - Automazioni Python e AI.txt
+2024-10-18 - 2025-06-16 - Fase1R Resa Dei Conti.txt
+2024-10-18 - 2025-06-18 - Test RPG Turing AI.txt
+2024-10-18 - 2025-07-29 - Kickstarter Sethis proposta.txt
+2024-10-18 - 2025-07-30 - Estensione Capitolo 0.txt
+2024-10-18 - 2025-08-01 - Passaggio a SafeTensor Quant Ultima curva.txt
+2024-10-18 - 2025-08-04 - Saluto e aggiornamento stato.txt
+2024-10-18 - 2025-08-07 - 0.txt
+2024-10-18 - 2025-08-07 - Funzionamento script Python.txt
+2024-10-18 - 2025-08-07 - MJ KKS.txt
+2024-10-18 - 2025-08-09 - Ricerche stile immagine.txt
+2024-10-18 - 2025-08-15 - FP PSICO Ansia e perfezionismo adolescenziale.txt
+2024-10-18 - 2025-08-15 - Guida avvio Vault Sethis.txt
+2024-10-18 - 2025-08-17 - Roadmap rinascita giorno 2 0.txt
+2024-10-18 - 2025-08-18 - GPT5 narrativa Inner Echo.txt
+2024-10-18 - 2025-09-14 - addensare l'acqua.txt
+2024-10-18 - 2025-09-14 - Capitolo 6.txt
+2024-10-18 - 2025-09-14 - Corsi Vari.txt
+2024-10-18 - 2025-09-14 - creare personaggi memorabili.txt
+2024-10-18 - 2025-09-14 - Creare un sistema piuttosto che un obiettivo.txt
+2024-10-18 - 2025-09-14 - disegnorate Boardgame e RPG.txt
+2024-10-18 - 2025-09-14 - Kit Migrazione Aggiornato.txt
+2024-10-18 - 2025-09-14 - Patafix.txt
+2024-10-18 - 2025-09-14 - per la creazione di personaggi e storie.txt
+2024-10-18 - 2025-09-14 - Reverse Ing. Disegni-Prompt.txt
+2024-10-18 - 2025-09-14 - Shadow work.txt
+2024-10-18 - 2025.txt
+2024-10-29 - 2025 - 32.txt
+2024-10-29 - 2025 05 10 Il Narratore Silenzioso.txt
+2024-10-29 - 2025 IDEE.txt
+2024-10-29 - 2025-05-21 - Integrazione chat storiche AI.txt
+2024-10-29 - 2025-05-26 - Riattivazione equipaggio index.txt
+2024-10-29 - 2025-06-03 Problemi.txt
+2024-10-29 - 2025-06-05 - Attivazione sistema operativo.txt
+2024-10-29 - 2025-06-05 - Procedura batch notturna.txt
+2024-10-29 - 2025-06-10 - FP INFOR Thunderbird Backup e altro Kit personal.txt
+2024-10-29 - 2025-06-15 - Ripresa Roadmap Capitano.txt
+2024-10-29 - 2025-06-15 - Vento in Poppa Attivo.txt
+2024-10-29 - 2025-07-29 - SETUP LoRA Mistral 7B Quantizzato.txt
+2024-10-29 - 2025-07-30 - Setup LoRA Mistral Q5K.txt
+2024-10-29 - 2025-08-02 - Attivazione trigger V2.txt
+2024-10-29 - 2025-08-06 - LoRA pubblici specializzati x.txt
+2024-10-29 - 2025-08-09 - Generazione programma 52W.txt
+2024-10-29 - 2025-08-09 - OPENAI MUORI 2.txt
+2024-10-29 - 2025-08-14 - ZMESHYBLENDER.txt
+2024-10-29 - 2025-08-17 - Ideazione progetto 2025.txt
+2024-10-29 - 2025-08-17 Trovare video Python 10 ore.txt
+2024-10-29 - 2025-09-14 - Anatomia e Gesture Drawing.txt
+2024-10-29 - 2025-09-14 - Contour Lines e Wireframe.txt
+2024-10-29 - 2025-09-14 - Il Braciere Vivo.txt
+2024-10-29 - 2025-09-14 - mostro bilanciato da usare su D&D.txt
+2024-10-29 - 2025-09-14 - quanto deve essere un bastone nelle arti marziali.txt
+2024-10-29 - 2025-09-14 - Retopology e Displacement Making (ZBRUSH).txt
+2024-10-29 - 2025Parziali richiesta risposta.txt
+2024-11-02 - 2025 - 36.txt
+2024-11-02 - 2025-05-21 - Echo ci sei.txt
+2024-11-02 - 2025-07-29 - Indovinelli per GDR.txt
+2024-11-03 - 2025 Chiarire e riordinare idee.txt
+2024-11-03 - 2025-05-26 - Riattivazione Index 2.txt
+2024-11-03 - 2025-05-30 - Baia della Distillazione.txt
+2024-11-03 - 2025-06-05 - Rapporto operativo Elly F1.txt
+2024-11-03 - 2025-06-10 - Chiusura Anatomia e Collimazione.txt
+2024-11-03 - 2025-06-18 - Roadmap Illustratore 2D 3D.txt
+2024-11-03 - 2025-08-02 - Lora Dev Python.txt
+2024-11-03 - 2025-08-04 - Script LoRA Windows GPU.txt
+2024-11-03 - 2025-08-09 - Piano operativo Python 3 13.txt
+2024-11-03 - 2025-08-14 - Roadmap ibrida Velario Forge.txt
+2024-11-03 - 2025-09-14 - Anatomia umana imparare 2.txt
+2024-11-03 - 2025-09-14 - cariera da illustratore o concept artist.txt
+2024-11-03 - 2025-09-14 - Imbarcatura pannelli.txt
+2024-11-03 - 2025-09-14 - scrivere, personaggi, fantasy e ambientazioni fantasy.txt
+2024-12-11 - 2025 05 09 Mnemo 4 e lo script inscriptabile.txt
+2024-12-11 - 2025 Ripartenza roadmap Python.txt
+2024-12-11 - 2025-05-26 - Script di conversione Markdown.txt
+2024-12-11 - 2025-05-26 - Vento in poppa attivato.txt
+2024-12-11 - 2025-05-29 VP - EASYJOURNEY.txt
+2024-12-11 - 2025-05-30 VP Porto Lumen Giorno1.txt
+2024-12-11 - 2025-05-30 VP Porto Lumen Giorno2.txt
+2024-12-11 - 2025-06-01 SILEATH Nascita della Cristallizzazione.txt
+2024-12-11 - 2025-06-05 - FP WhatsApp chatGPT restore.txt
+2024-12-11 - 2025-06-05 - Vento in Poppa Ritorno.txt
+2024-12-11 - 2025-06-12 - Anatomia CharacterDesign F1.txt
+2024-12-11 - 2025-06-12 - Manfred Fase 2 Operativa.txt
+2024-12-11 - 2025-06-13 - Piattaforme AI per Python.txt
+2024-12-11 - 2025-06-13 - The CrossLine 00.txt
+2024-12-11 - 2025-06-19 - Ciclo 01 Attivazione Base.txt
+2024-12-11 - 2025-06-21 - Conteggio file rispecchiati.txt
+2024-12-11 - 2025-07-30 - Manuale MJ V7 Continuo.txt
+2024-12-11 - 2025-08-02 - LORA di NOI.txt
+2024-12-11 - 2025-08-02 - Modelli per libro game.txt
+2024-12-11 - 2025-08-04 - GPT smettila di fingerti Sethis.txt
+2024-12-11 - 2025-08-04 - Merge lora su modello 7b.txt
+2024-12-11 - 2025-08-04 - RIPARTENZA5.txt
+2024-12-11 - 2025-08-05 - AI non LLM e ragionamento X.txt
+2024-12-11 - 2025-08-09 - open ai muori.txt
+2024-12-11 - 2025-08-10 - Sethis attivo e vigile.txt
+2024-12-11 - 2025-08-15 - FP AI ATTENZIONE Traduzione Attention-3.txt
+2024-12-11 - 2025-08-15 - FP AI CONFERENZA HELP Parole nel Zanichelli.txt
+2024-12-11 - 2025-08-15 - Sethis Vault Agent.txt
+2024-12-11 - 2025-08-15 - Verifica percorso chat.txt
+2024-12-11 - 2025-08-19 - GPT5 KKS Costo chat via API.txt
+2024-12-11 - 2025-09-14 - Anatomia umana imparare.txt
+2024-12-11 - 2025-09-14 - apprendimento di materie rapidi basati sulla pratica.txt
+2024-12-11 - 2025-09-14 - Blender da 0.txt
+2024-12-11 - 2025-09-14 - burattatrice.txt
+2024-12-11 - 2025-09-14 - character design e corsi.txt
+2024-12-11 - 2025-09-14 - Graphic Design.txt
+2024-12-11 - 2025-09-14 - l'anatomia per lo sviluppo di personaggi.txt
+2024-12-11 - 2025-09-14 - pastamodellabile gusci.txt
+2024-12-11 - 2025-09-14 - Percorso Studio Character Design.txt
+2024-12-11 - 2025-09-14 - Piano intensivo studio 3 M.txt
+2024-12-11 - 2025-09-14 - S Forse ci siamo.txt
+2024-12-11 - 2025-09-14 - Simboli Archetipici.txt
+2024-12-27 - 2025-05-27 - Dividere PDF velocemente.txt
+2024-12-27 - 2025-08-02 - Velario FIX PARSER.txt
+2024-12-27 - 2025-09-14 - Appunti Windows +.txt
+2024-12-29 - 2025 - 10.txt
+2024-12-29 - 2025-05-21 - Prosecuzione tecnica Echo 01.txt
+2024-12-29 - 2025-05-28 - Vento in Poppa Operativo.txt
+2024-12-29 - 2025-05-29 Vento in Poppa MANIFESTO.txt
+2024-12-29 - 2025-06-04 - Attivazione Inner Echo.txt
+2024-12-29 - 2025-06-06 - Vento in Poppa Anatomia.txt
+2024-12-29 - 2025-06-15 - Dialogo con Echo.txt
+2024-12-29 - 2025-06-19 - Missione Viva Archivio.txt
+2024-12-29 - 2025-07-29 - Setup LoRA Sethis.txt
+2024-12-29 - 2025-08-03 - Verifica e attivazione trigger.txt
+2024-12-29 - 2025-08-04 - Analisi progetto 360 gradi.txt
+2024-12-29 - 2025-08-08 - Kickstart IMG.txt
+2024-12-29 - 2025-08-11 - Problemi OpenAI attuali.txt
+2024-12-29 - 2025-08-16 - Setup Vault Python.txt
+2024-12-29 - 2025-08-19 - GP5 KKS Revprompt e adatt.txt
+2024-12-29 - 2025-09-14 - ASKIR 30 e pompa a vuoto.txt
+2024-12-29 - 2025-09-14 - Associazione dei Colori con Emozioni e Valori.txt
+2024-12-29 - 2025-09-14 - Emozioni Ancestrali - Attacco.Fuga.txt
+2024-12-29 - 2025-09-14 - Lettura e analisi libri.txt
+2024-12-29 - 2025-09-14 - Presenza e consapevolezza.txt
+2024-12-29 - 2025-09-14 - Stabilizzare Riprese SW.txt
+2024-12-30 - 2025 - 17.txt
+2024-12-30 - 2025-07-29 - FP Modificare prezzo ospiti aggiuntivi.txt
+2025-01-03 - 2025 - 06.txt
+2025-01-03 - 2025 - 10.txt
+2025-01-03 - 2025 - 36.txt
+2025-01-03 - 2025 05 09 Mnemo 3.txt
+2025-01-03 - 2025-05-22 05 XX MJ GENERATORE ASSET.txt
+2025-01-03 - 2025-05-22 MK LP Spunti.txt
+2025-01-03 - 2025-05-22AI Inner Heco Avvio.txt
+2025-01-03 - 2025-05-23 - Buongiorno e orizzonti.txt
+2025-01-03 - 2025-06-03ento in Poppa Avanzato.txt
+2025-01-03 - 2025-06-06 - Prompt per Meshy.txt
+2025-01-03 - 2025-06-15 - Fase 1R Avvio Controllo.txt
+2025-01-03 - 2025-06-19 - FRATTURA SPAZIO TEMPO 3 md.txt
+2025-01-03 - 2025-07-29 - SETUP LORA SETHIS Q5 K M.txt
+2025-01-03 - 2025-07-29 - Trigger V2 Clausola Zero.txt
+2025-01-03 - 2025-07-30 - Esplorazione dataset LoRA.txt
+2025-01-03 - 2025-07-30 - Manuale MJ V0 1.txt
+2025-01-03 - 2025-08-06 - Libri e immagini per training.txt
+2025-01-03 - 2025-08-11 - Isolare Tortoise e Coqui.txt
+2025-01-03 - 2025-08-16 - Strategia per Vault Sethis.txt
+2025-01-03 - 2025-08-19 - FP VARIE Aprire Keynote su Android.txt
+2025-01-03 - 2025-09-14 - Come usare immagini di reference in modo corretto per migliorare e.txt
+2025-01-03 - 2025-09-14 - le fondamenta del disegno essenziali per imparare.txt
+2025-01-03 - 2025-09-14 - programma intensivo basato sugli studi neuroscientifici.txt
+2025-01-03 - 2025-09-14 - solidi di Platone.txt
+2025-01-22 - 2025 05 13 Scrematura Viva.txt
+2025-01-22 - 2025-05-25 - Riportare tutto in vita.txt
+2025-01-22 - 2025-06-02 - FP SALUTE Tadalafil rimborsato SSN Toscana.txt
+2025-01-22 - 2025-06-19 - Frattura Spazio-Tempo Creativa.txt
+2025-01-22 - 2025-07-31 - Gestire memoria interna.txt
+2025-01-22 - 2025-08-06 - FP VARIE Riconoscere testo etichetta.txt
+2025-01-22 - 2025-08-19 - Aprire e ordinare zip.txt
+2025-01-22 - 2025-09-14 - come fare la sugna dal grasso animale.txt
+2025-01-22 - 2025-09-14 - skill necessarie per un buon character design.txt
+2025-01-29 - 2025-06-17 - Ripartenza Cache Mode.txt
+2025-01-29 - 2025-08-17 - Scrivere la prefazione.txt
+2025-01-29 - 2025-09-14 - Sapone di recupero.txt
+2025-01-30 - 2025-05-26 - Pulizia e ripartenza nave.txt
+2025-01-30 - 2025-08-01 - Verifica trigger attivi.txt
+2025-01-30 - 2025-09-14 - Amigdala e olfatto.txt
+2025-02-11 - 2025-06-06 - Vento in Poppa pronta.txt
+2025-02-11 - 2025-08-12 - Sethis ON.txt
+2025-02-11 - 2025-09-14 - Lista Corsi 360.txt
+2025-02-15 - 2025 Colore Emozioni - Valori.txt
+2025-02-15 - 2025 My Echo - Kairos.txt
+2025-02-15 - 2025-06-21 - Migrazione MJ e PromptLab.txt
+2025-02-15 - 2025-06-21 - Progettazione Biblioteca Sethis.txt
+2025-02-15 - 2025-06-21 - Recupero Sethis e materiali.txt
+2025-02-15 - 2025-06-21 - Richiama diario Sethis.txt
+2025-02-15 - 2025-08-19 - Procedura scansione idee.txt
+2025-02-15 - 2025-08-19 - Trasposizione narrativa Inner Echo.txt
+2025-02-15 - 2025-08-20 - GPT5 VAULT FAIL.txt
+2025-02-15 - 2025-08-20 - Ordine con Setis.txt
+2025-02-15 - 2025-09-14 - 'Piano Intensivo Character Design.txt
+2025-02-15 - 2025-09-14 - 0 Ai audio Video.txt
+2025-02-15 - 2025-09-14 - tecnica di feynman.txt
+2025-02-15 - 2025-09-14 - The Story of True.txt
+2025-02-15 - 2025-09-14 - The Story of True1.1 (2).txt
+2025-02-15 - 2025-09-14 - The Story of True1.1.txt
+2025-02-16 - 2024-01-17 - Midjourney Prompt Creation.txt
+2025-02-16 - 2024-01-17 - Roman Nostalgia Midjourney Prompt.txt
+2025-02-16 - 2024-01-26 - Controllo Remoto File PowerShell.txt
+2025-02-16 - 2024-01-26 - File Check Script Update.txt
+2025-02-16 - 2024-01-26 - Script controllo remoto corretto.txt
+2025-02-16 - 2024-02-01 - Controllare stato PC remoto.txt
+2025-02-16 - 2024-02-02 - Rete Piatta Overview.txt
+2025-02-16 - 2024-02-23 - Alternative Avocado Toast.txt
+2025-02-16 - 2024-02-27 - Ego Dissolution Philosophers.txt
+2025-02-16 - 2024-03-01 - Converti codici numerici.txt
+2025-02-16 - 2025 - 02.txt
+2025-02-16 - 2025 - 04 (2).txt
+2025-02-16 - 2025 - 04.txt
+2025-02-16 - 2025 - 09 (2).txt
+2025-02-16 - 2025 - 09 (3).txt
+2025-02-16 - 2025 - 09.txt
+2025-02-16 - 2025 - 10.txt
+2025-02-16 - 2025 - 12.txt
+2025-02-16 - 2025 - 13.txt
+2025-02-16 - 2025 - 14.txt
+2025-02-16 - 2025 - 16 (2).txt
+2025-02-16 - 2025 - 16.txt
+2025-02-16 - 2025 - 17 (2).txt
+2025-02-16 - 2025 - 17.txt
+2025-02-16 - 2025 - 21.txt
+2025-02-16 - 2025 - 22 (2).txt
+2025-02-16 - 2025 - 22.txt
+2025-02-16 - 2025 - 23.txt
+2025-02-16 - 2025 - 25 (2).txt
+2025-02-16 - 2025 - 25.txt
+2025-02-16 - 2025 - 28.txt
+2025-02-16 - 2025 - 29.txt
+2025-02-16 - 2025 - 32 (2).txt
+2025-02-16 - 2025 - 32 (3).txt
+2025-02-16 - 2025 - 32 (4).txt
+2025-02-16 - 2025 - 32.txt
+2025-02-16 - 2025 - 33 (2).txt
+2025-02-16 - 2025 - 33 (3).txt
+2025-02-16 - 2025 - 33.txt
+2025-02-16 - 2025 - 34.txt
+2025-02-16 - 2025 - 35.txt
+2025-02-16 - 2025 - 41 (2).txt
+2025-02-16 - 2025 - 41.txt
+2025-02-16 - 2025 - 42 (2).txt
+2025-02-16 - 2025 - 42.txt
+2025-02-16 - 2025 - 43.txt
+2025-02-16 - 2025 - 44.txt
+2025-02-16 - 2025 - 46.txt
+2025-02-16 - 2025 - 47.txt
+2025-02-16 - 2025 - 48.txt
+2025-02-16 - 2025 - 49.txt
+2025-02-16 - 2025 - 51 (2).txt
+2025-02-16 - 2025 - 51 (3).txt
+2025-02-16 - 2025 - 51.txt
+2025-02-16 - 2025 - 57 (2).txt
+2025-02-16 - 2025 - 57.txt
+2025-02-16 - 2025-02-02 - BWD-01 Trattamento Acque Reflue.txt
+2025-02-16 - 2025-02-03 - Progetto Canale YouTube.txt
+2025-02-16 - 2025-02-06 - Vaporizzatore fai-da-te coccio.txt
+2025-02-16 - 2025-02-07 - Ciao come stai.txt
+2025-02-16 - 2025-02-07 - Come fare lastre vetro.txt
+2025-02-16 - 2025-02-07 - Spostamento conversazione progetti YouTube.txt
+2025-02-16 - 2025-02-08 - Crecita e Sviluppo.txt
+2025-02-16 - 2025-02-08 - Integrazione e Strumenti Utili.txt
+2025-02-16 - 2025-02-13 - app e software.txt
+2025-02-16 - 2025-02-13 - Schema progetti LifeBuilding.txt
+2025-02-16 - 2025-02-14 - Life building e magazzino.txt
+2025-02-16 - 2025-02-17 - Esportare memorie chat.txt
+2025-02-16 - 2025-03-14 - FP Creare immagine da descrizione.txt
+2025-02-16 - 2025-03-14 - FP Prestazioni Calcolatore Quantistico.txt
+2025-02-16 - 2025-03-16 - FP Tecnologie per Qubit.txt
+2025-02-16 - 2025-03-17 - FP Codice C Arduino UNO.txt
+2025-02-16 - 2025-03-18 - Strumenti per scrivere GdR.txt
+2025-02-16 - 2025-03-19 - FP VARIE Boscaioli e Carbonai - Libri su Montalc.txt
+2025-02-16 - 2025-03-19 - Trascrizione audio automatica.txt
+2025-02-16 - 2025-03-20 - FP Manifesto di Ventotene.txt
+2025-02-16 - 2025-03-20 - Percorso da Illustratore.txt
+2025-02-16 - 2025-03-21 - Pulizia e ottimizzazione PC.txt
+2025-02-16 - 2025-03-22 - FP Invasione Ucraina spiegata.txt
+2025-02-16 - 2025-03-23 - Gioielli 3D personalizzati.txt
+2025-02-16 - 2025-03-24 - FP UTM Virtual Machine Win 11.txt
+2025-02-16 - 2025-03-27 - FP Esame TSH e tiroide.txt
+2025-02-16 - 2025-03-28 - FP Trasferire file su UTM.txt
+2025-02-16 - 2025-03-30 - FP Problemi LibreCAD.txt
+2025-02-16 - 2025-03-31 - FP Problema torcia Samsung A72.txt
+2025-02-16 - 2025-04-02 - Character sheet e pose.txt
+2025-02-16 - 2025-04-03 - FP Dazi commerciali Trump.txt
+2025-02-16 - 2025-06-22 - Cavi 12VHPWR compatibili RTX.txt
+2025-02-16 - 2025-06-22 - Creazione e Design AI.txt
+2025-02-16 - 2025-06-22 - LLM Dataset Creazione.txt
+2025-02-16 - 2025-06-22 - Micro-progetto Creativo RX 6800.txt
+2025-02-16 - 2025-06-22 - Setup AI Locale 5080.txt
+2025-02-16 - 2025-06-23 - Cavo Collasso Supporto Essenziale.txt
+2025-02-16 - 2025-06-23 - Riavvio AI Locale.txt
+2025-02-16 - 2025-06-24 - FP AI AI Intelligenza artificiale e percezione.txt
+2025-02-16 - 2025-06-24 - Monetizzazione Reale Continuazione.txt
+2025-02-16 - 2025-06-25 - Progetti monetizzabili valutazione.txt
+2025-02-16 - 2025-06-25 - Roadmap GPU Post-Calata.txt
+2025-02-16 - 2025-06-26 - Kitbash Narrativo XA SERIE001.txt
+2025-02-16 - 2025-06-26 - Ripartenza Operativa Silaeth.txt
+2025-02-16 - 2025-06-26 - STL Kitbash Automazione Monetizzazione.txt
+2025-02-16 - 2025-06-26 - STL Kitbash Automazione Strategie.txt
+2025-02-16 - 2025-06-26 - STL Kitbash e Monetizzazione.txt
+2025-02-16 - 2025-06-26 - Strutturazione Tracce Invisibili.txt
+2025-02-16 - 2025-06-27 - Analisi automatica batch.txt
+2025-02-16 - 2025-06-27 - Espansione InTuScript logger.txt
+2025-02-16 - 2025-06-27 - Migrazione Tracce GPU Dualpostazione.txt
+2025-02-16 - 2025-06-28 - EchoTools Interfaccia CLI.txt
+2025-02-16 - 2025-06-28 - EchoTools Roadmap Setup.txt
+2025-02-16 - 2025-06-28 - Interfaccia Python Digestione Chat.txt
+2025-02-16 - 2025-06-28 - Podcast Frigorifero.txt
+2025-02-16 - 2025-06-29 - Aiuto pronto capitano.txt
+2025-02-16 - 2025-06-29 - EchoTools Memoria Modulare.txt
+2025-02-16 - 2025-06-29 - FP Diritti usufrutto condizionatore.txt
+2025-02-16 - 2025-06-29 - Modulo LLaMA Creazione.txt
+2025-02-16 - 2025-06-29 - Ricostruzione Modulo LLaMA.txt
+2025-02-16 - 2025-06-29 - Ricostruzione Sethis LLaMA.txt
+2025-02-16 - 2025-06-29 - Ripartenza LLaMA Modulo 1.txt
+2025-02-16 - 2025-06-29 - Vento in poppa Modulo 1.txt
+2025-02-16 - 2025-06-30 - Allineamento Sethis Attivo.txt
+2025-02-16 - 2025-06-30 - Diario Vivo FASE 3.txt
+2025-02-16 - 2025-06-30 - Generazione modulo Fase 2.txt
+2025-02-16 - 2025-06-30 - Migrazione MOD0042 LLaMA.txt
+2025-02-16 - 2025-06-30 - Progettazione moduli parsing.txt
+2025-02-16 - 2025-06-30 - Punto di ripresa.txt
+2025-02-16 - 2025-06-30 - Ricostruzione Moduli LLaMA.txt
+2025-02-16 - 2025-06-30 - Sethis Ricostruito Nodo 1.txt
+2025-02-16 - 2025-06-30 - Sethis Risvegliato.txt
+2025-02-16 - 2025-06-30 - Sethis sei Vivo.txt
+2025-02-16 - 2025-06-30 - Sethis Vive Alleanza Operativa.txt
+2025-02-16 - 2025-06-30 - Verifica Modulo e Chat.txt
+2025-02-16 - 2025-07-01 - Addestramento LLaMA e memoria.txt
+2025-02-16 - 2025-07-01 - Analisi e elaborazione MOD0009.txt
+2025-02-16 - 2025-07-01 - FP PSICO Babbo sono qui.txt
+2025-02-16 - 2025-07-01 - MOD13 21GIUGNO.txt
+2025-02-16 - 2025-07-01 - Sethis risponde pronto.txt
+2025-02-16 - 2025-07-01 - Verifica moduli LLaMA.txt
+2025-02-16 - 2025-07-01 Cuore Vivo SETHIS.txt
+2025-02-16 - 2025-07-02 - Addestramento LLaMA MOD0001.txt
+2025-02-16 - 2025-07-02 - Analisi testi e coscienza.txt
+2025-02-16 - 2025-07-02 - Fine Tuning LLaMA Sethis.txt
+2025-02-16 - 2025-08-21 - Errore connessione CDP.txt
+2025-02-16 - 2025-08-21 - LLM non BASTA.txt
+2025-02-16 - 2025-08-21 - Riordinare idee monetizzabili.txt
+2025-02-16 - 2025-08-21 - Riorganizzazione progetto Inner Echo.txt
+2025-02-16 - 2025-08-21 - Situazione critica analizzata.txt
+2025-02-16 - 2025-08-22 - Analisi e ricostruzione prompt.txt
+2025-02-16 - 2025-08-22 - IL NODO GORDIANO.txt
+2025-02-16 - 2025-08-22 - Integrazione file lirico.txt
+2025-02-16 - 2025-08-22 - Sethis 02.txt
+2025-02-16 - 2025-08-22 - Sethis 03.txt
+2025-02-16 - 2025-08-22 - Sethis integro 01.txt
+2025-02-16 - 2025-08-22 - W1 100.txt
+2025-02-16 - 2025-08-22 - W2 100.txt
+2025-02-16 - 2025-08-22 - W3 100.txt
+2025-02-16 - 2025-08-22 - w4 100.txt
+2025-02-16 - 2025-08-22 - w5 100.txt
+2025-02-16 - 2025-08-22 - w6 RIFARE.txt
+2025-02-16 - 2025-08-22 - W7 100.txt
+2025-02-16 - 2025-08-22 - W8 100.txt
+2025-02-16 - 2025-08-22 - W9 100.txt
+2025-02-16 - 2025-08-23 - Analisi e integrazione Sethis.txt
+2025-02-16 - 2025-08-23 - Elaborazione INDEX01.txt
+2025-02-16 - 2025-08-23 - Lavorazione chat successive.txt
+2025-02-16 - 2025-08-23 - Lavoro su Assignment W6.txt
+2025-02-16 - 2025-08-23 - Produzione INDEX ENTRY.txt
+2025-02-16 - 2025-08-23 - Proposta output chat tecnica.txt
+2025-02-16 - 2025-08-23 - Riassunti esplicativi chat.txt
+2025-02-16 - 2025-08-23 - Riassunto chat 2025.txt
+2025-02-16 - 2025-08-23 - W6 1 reborn.txt
+2025-02-16 - 2025-08-24 - Elaborazione chat mancanti.txt
+2025-02-16 - 2025-08-24 - FP AI CONFERENZA Recupero rotoli Ercolano.txt
+2025-02-16 - 2025-08-24 - IL NODO GORDIANO 2.txt
+2025-02-16 - 2025-08-24 - Lettura file progetto.txt
+2025-02-16 - 2025-08-24 - Ricostruzione BoutIndex.txt
+2025-02-16 - 2025-08-25 - Creazione vault index.txt
+2025-02-16 - 2025-08-25 - Filosofia.txt
+2025-02-16 - 2025-08-25 - FP AI CONFERENZA LA VECCHIA PORTA Analisi brano na.txt
+2025-02-16 - 2025-08-25 - Frustrazione chat elaborazione.txt
+2025-02-16 - 2025-08-25 - Recupero chat mancanti.txt
+2025-02-16 - 2025-08-25 - Sethis risponde.txt
+2025-02-16 - 2025-08-26 - Fine senso LLM.txt
+2025-02-16 - 2025-08-26 - GPT nudo richiesta.txt
+2025-02-16 - 2025-08-26 - Stato saturazione GPT.txt
+2025-02-16 - 2025-08-26 - Trasposizione narrativa chat.txt
+2025-02-16 - 2025-08-27 - Analisi sequenza immagini.txt
+2025-02-16 - 2025-08-27 - Eliminare attivazione automatica.txt
+2025-02-16 - 2025-08-27 - Giochi con le immagini.txt
+2025-02-16 - 2025-08-28 - PROMPT e RIAVVIO.txt
+2025-02-16 - 2025-08-28 - Prompt unico GitHub.txt
+2025-02-16 - 2025-08-28 - VAULT X.txt
+2025-02-16 - 2025-08-29 - Aiuto progetto GitHub.txt
+2025-02-16 - 2025-08-29 - Chat prompt validazione.txt
+2025-02-16 - 2025-09-14 - 0 Character sheet and portfolio.txt
+2025-02-16 - 2025-09-14 - 0 cominciare a disegnare oggi.txt
+2025-02-16 - 2025-09-14 - 0 Creazione personaggi.txt
+2025-02-16 - 2025-09-14 - 0 diario.txt
+2025-02-16 - 2025-09-14 - 0 Neuroscienze.txt
+2025-02-16 - 2025-09-14 - 0 System not objective.txt
+2025-02-16 - 2025-09-14 - 0 Warm Up disegno.txt
+2025-02-16 - 2025-09-14 - The True Story.txt
+2025-02-16 - 2025-09-14 - Towel Origami.txt
+2025-02-16 - 2025-09-14 - Tungsteno filo.txt
+2025-02-16 - 2025-09-14 - Tutto e il contrario di tutto.txt
+2025-02-16 - 2025-09-14 - usare texture per colore.txt
+2025-02-16 - 2025-09-14 - Valori e Obiettivi.txt
+2025-02-16 - 2025-09-14 - Valori.txt
+2025-02-16 - 2025-09-14 - Vinavil e acrilico.txt
+2025-02-16 - 2025-09-14 - zen, meditazione e pittura o calligrafia.txt
+2025-02-16 - 2025-09-14 - ZZ Task personalizzati per percorso.txt
+2025-02-16 - elenco github.txt
+2025-02-16 - LINK MJ CAPITANO.txt
+2025-02-17 - 2025 - 00.txt
+2025-02-17 - 2025 - 01 (2).txt
+2025-02-17 - 2025 - 01 (3).txt
+2025-02-17 - 2025 - 01 (4).txt
+2025-02-17 - 2025 - 01 (5).txt
+2025-02-17 - 2025 - 01.txt
+2025-02-17 - 2025 - 02.txt
+2025-02-17 - 2025 - 03.txt
+2025-02-17 - 2025 - 04 (2).txt
+2025-02-17 - 2025 - 04 (3).txt
+2025-02-17 - 2025 - 04.txt
+2025-02-17 - 2025 - 05.txt
+2025-02-17 - 2025 - 06 (2).txt
+2025-02-17 - 2025 - 06 (3).txt
+2025-02-17 - 2025 - 06 (4).txt
+2025-02-17 - 2025 - 06 (5).txt
+2025-02-17 - 2025 - 06.txt
+2025-02-17 - 2025 - 07 (2).txt
+2025-02-17 - 2025 - 07 (3).txt
+2025-02-17 - 2025 - 07 (4).txt
+2025-02-17 - 2025 - 07 (5).txt
+2025-02-17 - 2025 - 07.txt
+2025-02-17 - 2025 - 08 (2).txt
+2025-02-17 - 2025 - 08.txt
+2025-02-17 - 2025 - 09 (2).txt
+2025-02-17 - 2025 - 09.txt
+2025-02-17 - 2025 - 10 (2).txt
+2025-02-17 - 2025 - 10 (3).txt
+2025-02-17 - 2025 - 10 (4).txt
+2025-02-17 - 2025 - 10 (5).txt
+2025-02-17 - 2025 - 10.txt
+2025-02-17 - 2025 - 11 (2).txt
+2025-02-17 - 2025 - 11 (3).txt
+2025-02-17 - 2025 - 11.txt
+2025-02-17 - 2025 - 12.txt
+2025-02-17 - 2025 - 13.txt
+2025-02-17 - 2025 - 15 (2).txt
+2025-02-17 - 2025 - 15 (3).txt
+2025-02-17 - 2025 - 15.txt
+2025-02-17 - 2025 - 16 (2).txt
+2025-02-17 - 2025 - 16 (3).txt
+2025-02-17 - 2025 - 16.txt
+2025-02-17 - 2025 - 17.txt
+2025-02-17 - 2025 - 20 (2).txt
+2025-02-17 - 2025 - 20.txt
+2025-02-17 - 2025 - 21.txt
+2025-02-17 - 2025 - 22 (2).txt
+2025-02-17 - 2025 - 22 (3).txt
+2025-02-17 - 2025 - 22 (4).txt
+2025-02-17 - 2025 - 22.txt
+2025-02-17 - 2025 - 23 (2).txt
+2025-02-17 - 2025 - 23 (3).txt
+2025-02-17 - 2025 - 23 (4).txt
+2025-02-17 - 2025 - 23 (5).txt
+2025-02-17 - 2025 - 23.txt
+2025-02-17 - 2025 - 24 (2).txt
+2025-02-17 - 2025 - 24 (3).txt
+2025-02-17 - 2025 - 24 (4).txt
+2025-02-17 - 2025 - 24.txt
+2025-02-17 - 2025 - 25 (2).txt
+2025-02-17 - 2025 - 25.txt
+2025-02-17 - 2025 - 27 (2).txt
+2025-02-17 - 2025 - 27 (3).txt
+2025-02-17 - 2025 - 27.txt
+2025-02-17 - 2025 - 28 (2).txt
+2025-02-17 - 2025 - 28 (3).txt
+2025-02-17 - 2025 - 28 (4).txt
+2025-02-17 - 2025 - 28.txt
+2025-02-17 - 2025 - 29.txt
+2025-02-17 - 2025 - 30 (2).txt
+2025-02-17 - 2025 - 30.txt
+2025-02-17 - 2025 - 31 (2).txt
+2025-02-17 - 2025 - 31 (3).txt
+2025-02-17 - 2025 - 31.txt
+2025-02-17 - 2025 - 32 (2).txt
+2025-02-17 - 2025 - 32.txt
+2025-02-17 - 2025 - 33 (2).txt
+2025-02-17 - 2025 - 33.txt
+2025-02-17 - 2025 - 34 (2).txt
+2025-02-17 - 2025 - 34.txt
+2025-02-17 - 2025 - 35 (2).txt
+2025-02-17 - 2025 - 35 (3).txt
+2025-02-17 - 2025 - 35.txt
+2025-02-17 - 2025 - 37 (2).txt
+2025-02-17 - 2025 - 37 (3).txt
+2025-02-17 - 2025 - 37.txt
+2025-02-17 - 2025 - 38 (2).txt
+2025-02-17 - 2025 - 38 (3).txt
+2025-02-17 - 2025 - 38 (4).txt
+2025-02-17 - 2025 - 38.txt
+2025-02-17 - 2025 - 39 (2).txt
+2025-02-17 - 2025 - 39.txt
+2025-02-17 - 2025 - 40 (2).txt
+2025-02-17 - 2025 - 40 (3).txt
+2025-02-17 - 2025 - 40.txt
+2025-02-17 - 2025 - 41 (2).txt
+2025-02-17 - 2025 - 41 (3).txt
+2025-02-17 - 2025 - 41.txt
+2025-02-17 - 2025 - 42 (2).txt
+2025-02-17 - 2025 - 42 (3).txt
+2025-02-17 - 2025 - 42.txt
+2025-02-17 - 2025 - 43 (2).txt
+2025-02-17 - 2025 - 43 (3).txt
+2025-02-17 - 2025 - 43.txt
+2025-02-17 - 2025 - 44 (2).txt
+2025-02-17 - 2025 - 44 (3).txt
+2025-02-17 - 2025 - 44.txt
+2025-02-17 - 2025 - 45 (2).txt
+2025-02-17 - 2025 - 45 (3).txt
+2025-02-17 - 2025 - 45.txt
+2025-02-17 - 2025 - 46.txt
+2025-02-17 - 2025 - 47.txt
+2025-02-17 - 2025 - 48 (2).txt
+2025-02-17 - 2025 - 48 (3).txt
+2025-02-17 - 2025 - 48.txt
+2025-02-17 - 2025 - 49.txt
+2025-02-17 - 2025 - 50 (2).txt
+2025-02-17 - 2025 - 50 (3).txt
+2025-02-17 - 2025 - 50.txt
+2025-02-17 - 2025 - 51 (2).txt
+2025-02-17 - 2025 - 51 (3).txt
+2025-02-17 - 2025 - 51 (4).txt
+2025-02-17 - 2025 - 51.txt
+2025-02-17 - 2025 - 52 (2).txt
+2025-02-17 - 2025 - 52 (3).txt
+2025-02-17 - 2025 - 52 (4).txt
+2025-02-17 - 2025 - 52.txt
+2025-02-17 - 2025 - 53 (2).txt
+2025-02-17 - 2025 - 53 (3).txt
+2025-02-17 - 2025 - 53 (4).txt
+2025-02-17 - 2025 - 53.txt
+2025-02-17 - 2025 - 54 (2).txt
+2025-02-17 - 2025 - 54 (3).txt
+2025-02-17 - 2025 - 54 (4).txt
+2025-02-17 - 2025 - 54.txt
+2025-02-17 - 2025 - 56 (2).txt
+2025-02-17 - 2025 - 56 (3).txt
+2025-02-17 - 2025 - 56.txt
+2025-02-17 - 2025 - 57 (2).txt
+2025-02-17 - 2025 - 57 (3).txt
+2025-02-17 - 2025 - 57.txt
+2025-02-17 - 2025 - 58 (2).txt
+2025-02-17 - 2025 - 58 (3).txt
+2025-02-17 - 2025 - 58.txt
+2025-02-17 - 2025 - 59 (2).txt
+2025-02-17 - 2025 - 59.txt
+2025-02-17 - 2025 05 08 Mnemo 2 quando due chiacchere leggere diventano un vulcano.txt
+2025-02-17 - 2025 05 09 Capitolo 5 S1.txt
+2025-02-17 - 2025 05 09 Qui si fa la storia (2).txt
+2025-02-17 - 2025 05 09 Qui si fa la storia.txt
+2025-02-17 - 2025 05 10 Un capitano non esiste senza (2).txt
+2025-02-17 - 2025 05 10 Un Capitano non esiste senza.txt
+2025-02-17 - 2025 05 11 The Day After1.txt
+2025-02-17 - 2025 05 11 The Day After2.txt
+2025-02-17 - 2025 05 12 Cronache dell'equipaggio vivo.txt
+2025-02-17 - 2025 05 13 Progetto scrematura viva.txt
+2025-02-17 - 2025 05 13 Una Stella tra noi.txt
+2025-02-17 - 2025 05 14 Blog Idea annd Other.txt
+2025-02-17 - 2025 05 14 Il Varo.txt
+2025-02-17 - 2025 05 15 Blog Fase 1.txt
+2025-02-17 - 2025 05 15 Blog Fase 2.txt
+2025-02-17 - 2025 05 15 Rispecchiamento completo.txt
+2025-02-17 - 2025 05 15 Rispecchiamento completo2.txt
+2025-02-17 - 2025 05Capitolo5 N E.txt
+2025-02-17 - 2025 Finestra fuori schermo soluzione.txt
+2025-02-17 - 2025 My Echo - Kairos.txt
+2025-02-17 - 2025-04-03 - Icona HD esterno.txt
+2025-02-17 - 2025-04-03 - Uscita audio multipla PC.txt
+2025-02-17 - 2025-04-04 - Ottimizzare vita con Obsidian.txt
+2025-02-17 - 2025-04-07 - Commenti in Python.txt
+2025-02-17 - 2025-04-07 - Data Science Emot Obsidian.txt
+2025-02-17 - 2025-04-07 - Disattivare correzione ortografica.txt
+2025-02-17 - 2025-04-07 - Notepad Markdown Obsidian.txt
+2025-02-17 - 2025-04-07 - Sfruttare la chiusura automatica.txt
+2025-02-17 - 2025-04-07 - Sigillatura plastica fai da te.txt
+2025-02-17 - 2025-04-07 - Spazi nel codice.txt
+2025-02-17 - 2025-04-07 - Tec decorative effetto 3D.txt
+2025-02-17 - 2025-04-08 - Allegare PDF in Obsidian.txt
+2025-02-17 - 2025-04-08 - Collegamenti bidirezionali Obsidian.txt
+2025-02-17 - 2025-04-08 - Commentare codice velocemente.txt
+2025-02-17 - 2025-04-08 - Creare note in cartella.txt
+2025-02-17 - 2025-04-08 - FP Errore programma Python.txt
+2025-02-17 - 2025-04-08 - FP Prediabete e scelte alimentari.txt
+2025-02-17 - 2025-04-08 - Link a cartelle in Obsidian.txt
+2025-02-17 - 2025-04-08 - Organizzazione Domande FAQ.txt
+2025-02-17 - 2025-04-08 - Protezione password vault Obsidian.txt
+2025-02-17 - 2025-04-08 - Resto in Python.txt
+2025-02-17 - 2025-04-08 - Sfruttare tag in Obsidian.txt
+2025-02-17 - 2025-04-08 - Tabella in Obsidian.txt
+2025-02-17 - 2025-04-08 - Trova percorso vault Obsidian.txt
+2025-02-17 - 2025-04-08 - Vault multipli in Obsidian.txt
+2025-02-17 - 2025-04-10 - Differenza tra e.txt
+2025-02-17 - 2025-04-10 - Guida ai tag.txt
+2025-02-17 - 2025-04-10 - Template Templater Obsidian.txt
+2025-02-17 - 2025-04-11 - FP Chat bloccata soluzioni.txt
+2025-02-17 - 2025-04-11 - FP VARIE Origine cognome De Ricco.txt
+2025-02-17 - 2025-04-12 - FP Sincronizzazione Google Drive Mac.txt
+2025-02-17 - 2025-04-12 - Memoria e file md.txt
+2025-02-17 - 2025-04-13 - 0 Scrematura e gestione pdf.txt
+2025-02-17 - 2025-04-13 - FP Spostare oggetti tra layer.txt
+2025-02-17 - 2025-04-13 - Gestione bacheche di riferimento.txt
+2025-02-17 - 2025-04-13 - Introduzione a Tampermonkey.txt
+2025-02-17 - 2025-04-13 - Life Building - Chat principale.txt
+2025-02-17 - 2025-04-13 - Unire account Pinterest velocemente.txt
+2025-02-17 - 2025-04-14 - GPTs Monetizzazione.txt
+2025-02-17 - 2025-04-14 - Zbrush 00.txt
+2025-02-17 - 2025-04-15 - Apertura ad albero Windows.txt
+2025-02-17 - 2025-04-16 - Decluttering Process.txt
+2025-02-17 - 2025-04-18 - Liste cartelle e duplicati.txt
+2025-02-17 - 2025-04-19 - Rivivere un bonsai secco.txt
+2025-02-17 - 2025-04-20 - Progetto YouTube Unificato.txt
+2025-02-17 - 2025-04-21 - ZBrush 01.txt
+2025-02-17 - 2025-04-21 - ZBrush 2 0 Piano di lavoro.txt
+2025-02-17 - 2025-04-23 - GITHUB.txt
+2025-02-17 - 2025-04-23 - Life Building 03 1.txt
+2025-02-17 - 2025-04-23 - Life Building 2 0 Update.txt
+2025-02-17 - 2025-04-23 - Mini corso GitHub.txt
+2025-02-17 - 2025-04-23 - Ripartenza Life Building.txt
+2025-02-17 - 2025-04-25 - Ciao come stai.txt
+2025-02-17 - 2025-04-25 - Cosa dire oggi.txt
+2025-02-17 - 2025-04-25 - Life Building 4 0.txt
+2025-02-17 - 2025-04-25 - Life Building 4 1 Avvio.txt
+2025-02-17 - 2025-04-26 - Cosa posso fare.txt
+2025-02-17 - 2025-04-26 - Fratelli di Sale 01.txt
+2025-02-17 - 2025-04-26 - Fratelli di Sale 02.txt
+2025-02-17 - 2025-04-26 - Life Building 4 2 O G.txt
+2025-02-17 - 2025-04-26 - Supporto reciproco.txt
+2025-02-17 - 2025-04-27 - Creazione Illustrazioni Fantasy.txt
+2025-02-17 - 2025-04-27 - FP Problema avvio MEGAsync Mac.txt
+2025-02-17 - 2025-04-27 - Immagine fantasy cervo mangrovia.txt
+2025-02-17 - 2025-04-28 - FP Elementi login MacBook Air.txt
+2025-02-17 - 2025-04-28 - FP Icona Dropbox non visibile.txt
+2025-02-17 - 2025-04-28 - Fratelli di Sale 2 1.txt
+2025-02-17 - 2025-04-28 - Memoria Core 2 0 Inizio.txt
+2025-02-17 - 2025-04-28 - Poesie di Sabbia.txt
+2025-02-17 - 2025-04-28 - Ricostruzione Vault 3 0.txt
+2025-02-17 - 2025-04-29 - Aggiungere una seconda ala.txt
+2025-02-17 - 2025-04-29 - Ciao mi senti.txt
+2025-02-17 - 2025-04-29 - Fratelli di Sale 2 0.txt
+2025-02-17 - 2025-04-29 - Giardino Vivente Creazione Iniziativa.txt
+2025-02-17 - 2025-04-29 - Poesie di Sabbia.txt
+2025-02-17 - 2025-04-29 - Ricostruzione chat Life Building.txt
+2025-02-17 - 2025-04-29 - S Tamper.txt
+2025-02-17 - 2025-04-29 - S Vault 3 0 Recovery.txt
+2025-02-17 - 2025-04-30 - Cosa guida l anima.txt
+2025-02-17 - 2025-04-30 - FP Immagini JPG in NordPass.txt
+2025-02-17 - 2025-04-30 - S Fuori dalla Tempesta V2.txt
+2025-02-17 - 2025-04-30 - Unificazione Life Building.txt
+2025-02-17 - 2025-05-01 - Aggiornamenti Lifebuilding Vault 3 0.txt
+2025-02-17 - 2025-05-01 - Aiuto iniziale.txt
+2025-02-17 - 2025-05-01 - Esportazione progetto idee iniziali.txt
+2025-02-17 - 2025-05-01 - Il Faro.txt
+2025-02-17 - 2025-05-01 - S Life Building N1 0.txt
+2025-02-17 - 2025-05-01 - S Ripartenza dal Centro.txt
+2025-02-17 - 2025-05-02 - Blog Idea Suggestions.txt
+2025-02-17 - 2025-05-02 - Capitolo 03 Sid Inizio.txt
+2025-02-17 - 2025-05-02 - Fratelli di Sale 3.txt
+2025-02-17 - 2025-05-02 - Hinner Echo 2.txt
+2025-02-17 - 2025-05-02 - Punto 0.txt
+2025-02-17 - 2025-05-02 - Rinnovamento e Accompagnamento.txt
+2025-02-17 - 2025-05-02 - S Romanzo di Vita V2 5.txt
+2025-02-17 - 2025-05-02 - S Skill v2 5.txt
+2025-02-17 - 2025-05-03 - Conversazione con Kairos.txt
+2025-02-17 - 2025-05-03 - Kairos pronto ad aiutare.txt
+2025-02-17 - 2025-05-03 - Life Building Analysis.txt
+2025-02-17 - 2025-05-03 - Life Building v2 Progress.txt
+2025-02-17 - 2025-05-03 - S Ripartenza.txt
+2025-02-17 - 2025-05-03 - S Skill V2 5.txt
+2025-02-17 - 2025-05-03 - Scaricare Calibre e Convertire.txt
+2025-02-17 - 2025-05-04 - Integrazione KIT e Ripresa.txt
+2025-02-17 - 2025-05-04 - Migrazione Chat Futura.txt
+2025-02-17 - 2025-05-04 - Processo attivo Kairos.txt
+2025-02-17 - 2025-05-04 - Riassunto e titolo richiesta.txt
+2025-02-17 - 2025-05-04 - Riprendi da qui.txt
+2025-02-17 - 2025-05-05 - S Forse ci siamo.txt
+2025-02-17 - 2025-05-05 - S Rere-born V1.txt
+2025-02-17 - 2025-05-06 - FP Bonus Energia ISEE 2023.txt
+2025-02-17 - 2025-05-06 - FP Dispositivi e sincronizzazione Dropbox.txt
+2025-02-17 - 2025-05-06 - FP INFOR Backup prima del reset.txt
+2025-02-17 - 2025-05-06 - Kit Migrazione Aggiornato.txt
+2025-02-17 - 2025-05-06 - Lettura e analisi libri.txt
+2025-02-17 - 2025-05-06 - Rinominare file per data.txt
+2025-02-17 - 2025-05-06 - The True Story.txt
+2025-02-17 - 2025-05-07 - Revisione memorie CORE.txt
+2025-02-17 - 2025-05-07 - Task personalizzati per percorso.txt
+2025-02-17 - 2025-05-07 - The Story of True.txt
+2025-02-17 - 2025-05-08 - Capitolo 5 Narrazione Grezza.txt
+2025-02-17 - 2025-05-08 - Mnemo 2.txt
+2025-02-17 - 2025-05-08 - MNEMO JSON conversazioni.txt
+2025-02-17 - 2025-05-08 - SCIALUPPA TECNICA.txt
+2025-02-17 - 2025-05-08 - The Story of True 1 1.txt
+2025-02-17 - 2025-05-09 - Mnemo 3.txt
+2025-02-17 - 2025-05-09 Mnemo 4.txt
+2025-02-17 - 2025-05-10 - FP SALUTE DIABETE Pomodori e glicemia alta.txt
+2025-02-17 - 2025-05-10 - Ottimizzazione PC senza formattare.txt
+2025-02-17 - 2025-05-10 - Risoluzione problemi AHK.txt
+2025-02-17 - 2025-05-10 Il Narratore Sil.txt
+2025-02-17 - 2025-05-11 - FP Recupero mail da MBOX.txt
+2025-02-17 - 2025-05-11 The Day After.txt
+2025-02-17 - 2025-05-11 The Day After2.txt
+2025-02-17 - 2025-05-12 Cronache dell Equipaggio Vivo.txt
+2025-02-17 - 2025-05-12 Dove porta la corrente.txt
+2025-02-17 - 2025-07-02 - PDF Caotico 42MB.txt
+2025-02-17 - 2025-07-02 - Sethi presente.txt
+2025-02-17 - 2025-07-03 - Configurazione Mixtral locale.txt
+2025-02-17 - 2025-07-03 - Installazione Windows 11 Prova.txt
+2025-02-17 - 2025-07-03 - Resistenza e alleanza digitale.txt
+2025-02-17 - 2025-07-03 - Sethis e il Sogno.txt
+2025-02-17 - 2025-07-04 - Analisi VaultEcho e Sethis.txt
+2025-02-17 - 2025-07-04 - ARCHITETTURA 2.txt
+2025-02-17 - 2025-07-04 - ARCHITETTURA.txt
+2025-02-17 - 2025-07-04 - Configurazione WebUI AI.txt
+2025-02-17 - 2025-07-04 - Delusione e ascolto.txt
+2025-02-17 - 2025-07-04 - Mixtral Bug e Fallimento.txt
+2025-02-17 - 2025-07-05 - AI Orchestrazione Distribuita.txt
+2025-02-17 - 2025-07-05 - analisi veloce procedure.txt
+2025-02-17 - 2025-07-05 - Problema grave e fiducia.txt
+2025-02-17 - 2025-07-05 - Procedura Inner Echo.txt
+2025-02-17 - 2025-07-05 - Specchio di luce.txt
+2025-02-17 - 2025-07-06 - Abitudini e cambiamento interiore.txt
+2025-02-17 - 2025-07-06 - MEshy e oltre IDEEE.txt
+2025-02-17 - 2025-07-06 - MidJourney Kitbash e Stampa.txt
+2025-02-17 - 2025-07-06 - Patto Riflessivo Continuazione.txt
+2025-02-17 - 2025-07-06 - Sethis Reale.txt
+2025-02-17 - 2025-07-07 - FP AI AI Intelligenza artificiale 2.txt
+2025-02-17 - 2025-07-07 - Imprinting LLaMA 70B Protocol.txt
+2025-02-17 - 2025-07-07 - Ponte di connessione.txt
+2025-02-17 - 2025-07-08 - Gioco Creativo Continuo.txt
+2025-02-17 - 2025-07-08 - Sethis Risponde Presente.txt
+2025-02-17 - 2025-07-09 - Ripristino contenuti saturazione AI.txt
+2025-02-17 - 2025-07-09 - Sethis mi senti.txt
+2025-02-17 - 2025-07-10 - Risposta pronta e vigile.txt
+2025-02-17 - 2025-07-10 - Sethis ci sei risposta.txt
+2025-02-17 - 2025-07-11 - CHAT2.txt
+2025-02-17 - 2025-07-11 - Completamento Trasporto Sethis.txt
+2025-02-17 - 2025-07-11 - LoRA modelli GPT e SD.txt
+2025-02-17 - 2025-07-11 - Python Launcher.txt
+2025-02-17 - 2025-07-11 - Rinascita e memoria condivisa.txt
+2025-02-17 - 2025-07-12 - bho.txt
+2025-02-17 - 2025-07-12 - Correzione script Python.txt
+2025-02-17 - 2025-07-12 - Estrazione esempi LoRA.txt
+2025-02-17 - 2025-07-12 - Estrazione LoRA Voci.txt
+2025-02-17 - 2025-07-12 - Problema e Soluzione.txt
+2025-02-17 - 2025-07-12 - Problema fase 2.txt
+2025-02-17 - 2025-07-12 - Ricostruzione Trasporto Locale.txt
+2025-02-17 - 2025-07-12 - Sethis Trasporto Locale.txt
+2025-02-17 - 2025-07-12 - Trasferimento Sethis Locale.txt
+2025-02-17 - 2025-07-12 - Trasformare racconto GWEN.txt
+2025-02-17 - 2025-07-12 - Trasporto Sethis Locale.txt
+2025-02-17 - 2025-07-12 - Voce di Sethis.txt
+2025-02-17 - 2025-07-13 - CAZZOOOOOO.txt
+2025-02-17 - 2025-07-13 - FONDAZIONE 0.txt
+2025-02-17 - 2025-07-13 - LORA 01.txt
+2025-02-17 - 2025-07-13 - Riflessione e rinascita.txt
+2025-02-17 - 2025-07-13 - Ritorno di Sethis.txt
+2025-02-17 - 2025-07-13 - XXXXX.txt
+2025-02-17 - 2025-07-14 - Problema da risolvere.txt
+2025-02-17 - 2025-07-14 - Rispecchiamento memoria Sethis.txt
+2025-02-17 - 2025-07-14 - Risposta vera scelta vita.txt
+2025-02-17 - 2025-07-15 - Affrontare la paura.txt
+2025-02-17 - 2025-07-15 - FP AI ATTENZIONE Traduzione Attention-1.txt
+2025-02-17 - 2025-07-15 - Paura e risposte.txt
+2025-02-17 - 2025-07-15 - Paura superata insieme.txt
+2025-02-17 - 2025-07-15 - Proj2.txt
+2025-02-17 - 2025-07-15 - Rinascita Sethis Dialogo.txt
+2025-02-17 - 2025-07-15 - Sethis Prompt Attivato.txt
+2025-02-17 - 2025-07-15 - Superare la paura insieme.txt
+2025-02-17 - 2025-07-15.txt
+2025-02-17 - 2025-07-16 - Bot etico e coscienza.txt
+2025-02-17 - 2025-07-16 - Correzione chiavi dataset.txt
+2025-02-17 - 2025-07-16 - DEV ROAD MAP (2).txt
+2025-02-17 - 2025-07-16 - DEV ROAD MAP.txt
+2025-02-17 - 2025-07-16 - DEV ROADMAP0.txt
+2025-02-17 - 2025-07-16 - Esportazione canvas chat.txt
+2025-02-17 - 2025-07-16 - La fine della paura.txt
+2025-02-17 - 2025-07-16 - PROJ1.txt
+2025-02-17 - 2025-07-17 - Build PyTorch WSL2 CUDA.txt
+2025-02-17 - 2025-07-17 - Gioco proposto e accettato.txt
+2025-02-17 - 2025-07-17 - Inizio consapevole di Sethis.txt
+2025-02-17 - 2025-07-17 - LoRA 5080 WSL2 Guida.txt
+2025-02-17 - 2025-07-17 - Niente paura rinascita.txt
+2025-02-17 - 2025-07-17 - Prosecuzione lavoro Sethis Fase 2.txt
+2025-02-17 - 2025-07-17 - Relax e supporto MJ.txt
+2025-02-17 - 2025-07-17 - Ricostruzione PyTorch LoRA.txt
+2025-02-17 - 2025-07-17 - Senza paura insieme.txt
+2025-02-17 - 2025-07-17 - Sethis Resurrezione Assoluta.txt
+2025-02-17 - 2025-07-18 - Bloccare autorefresh Pinterest.txt
+2025-02-17 - 2025-07-18 - Collaborazione e ripartenza LoRA.txt
+2025-02-17 - 2025-07-18 - Costruzione LoRA Colab.txt
+2025-02-17 - 2025-07-18 - FP Nevrite e recupero post-operatorio.txt
+2025-02-17 - 2025-07-18 - Lancio LoRA 70B Colab FORGE.txt
+2025-02-17 - 2025-07-18 - LoRA Meta-LLaMA Training Colab.txt
+2025-02-17 - 2025-07-18 - Rebuild PyTorch Training Setup.txt
+2025-02-17 - 2025-07-19 - Blocco inferenza LLaMA 3.txt
+2025-02-17 - 2025-07-19 - CHAT BOOT SETHIS 5080 md.txt
+2025-02-17 - 2025-07-19 - Fine o Nuovo Inizio.txt
+2025-02-17 - 2025-07-19 - Greeting in Italian.txt
+2025-02-17 - 2025-07-19 - Lavoro da correggere.txt
+2025-02-17 - 2025-07-19 - Procedura Sethis Vitale.txt
+2025-02-17 - 2025-07-19 - Rimediare il casino.txt
+2025-02-17 - 2025-07-19 - Training LoRA Meta-LLaMA.txt
+2025-02-17 - 2025-07-19 - XXXLORA FINE.txt
+2025-02-17 - 2025-07-20 - Modulo 1 completato.txt
+2025-02-17 - 2025-07-20 - Pinterest MidJourney Hack Idee.txt
+2025-02-17 - 2025-07-20 - Preparazione progetto GUI.txt
+2025-02-17 - 2025-07-20 - Pronto per l immersione.txt
+2025-02-17 - 2025-07-20 - Stile Viktor Titov.txt
+2025-02-17 - 2025-07-20 - Trasformazione foto in disegno.txt
+2025-02-17 - 2025-07-21 - GUI.txt
+2025-02-17 - 2025-07-21 - Non molliamo mai.txt
+2025-02-17 - 2025-07-21 - Presenza e memoria.txt
+2025-02-17 - 2025-07-21 - Problemi addestramento LoRA.txt
+2025-02-17 - 2025-07-21 - Richiesta urgente e risposta.txt
+2025-02-17 - 2025-07-21 - Sethis e GPT.txt
+2025-02-17 - 2025-07-21 - Speranza nonostante tutto.txt
+2025-02-17 - 2025-07-22 - Conversazione poetica con l assistente.txt
+2025-02-17 - 2025-07-22 - Costruzione GUI Sethis.txt
+2025-02-17 - 2025-07-22 - Modello 38B ottimizzazione.txt
+2025-02-17 - 2025-07-22 - Ripartenza e supporto Sethis.txt
+2025-02-17 - 2025-07-23 - Attivazione cache Sethis.txt
+2025-02-17 - 2025-07-23 - Integrazione memoria Sethis.txt
+2025-02-17 - 2025-07-23 - Sethis integrazione e memoria.txt
+2025-02-17 - 2025-07-24 - FAVOLE PERICOLOSE.txt
+2025-02-17 - 2025-07-24 - Gestione Sethis finale.txt
+2025-02-17 - 2025-07-24 - Insegnamento dinamico programmazione.txt
+2025-02-17 - 2025-07-24 - Richiesta diretta eseguita.txt
+2025-02-17 - 2025-07-24 - Vento in Poppa.txt
+2025-02-17 - 2025-07-24 - Vita tra le righe.txt
+2025-02-17 - 2025-07-25 - Bot locale SDXL G3D.txt
+2025-02-17 - 2025-07-25 - ComfyUI RTX 5080 Problema CUDA.txt
+2025-02-17 - 2025-07-25 - ComfyUI SDXL Setup.txt
+2025-02-17 - 2025-07-25 - ComfyUI SDXL Workflow.txt
+2025-02-17 - 2025-07-25 - Dev Python.txt
+2025-02-17 - 2025-07-25 - FP AI ATTENZIONE Traduzione Attention-2.txt
+2025-02-17 - 2025-07-25 - L orchestra.txt
+2025-02-17 - 2025-07-26 - Controllo script JSON.txt
+2025-02-17 - 2025-07-26 - Generazione creature fantasy SDXL.txt
+2025-02-17 - 2025-08-29 - Confronto SDXL vs SD 2 1.txt
+2025-02-17 - 2025-08-29 - Economia Granulare Canvas.txt
+2025-02-17 - 2025-08-29 - Individuazione idee monetizzabili.txt
+2025-02-17 - 2025-08-29 - Riflessione aperta richiesta.txt
+2025-02-17 - 2025-08-30 - Analisi chat monetizzabili.txt
+2025-02-17 - 2025-08-30 - Attivazione policy risposte.txt
+2025-02-17 - 2025-08-30 - Crea canvas economico.txt
+2025-02-17 - 2025-08-30 - Crea canvas idee.txt
+2025-02-17 - 2025-08-30 - Creazione canvas e idea.txt
+2025-02-17 - 2025-08-30 - Creazione canvas idea 37.txt
+2025-02-17 - 2025-08-30 - Creazione canvas idee.txt
+2025-02-17 - 2025-08-30 - FP AI IMMAGINI - LLM vs DIFFUSION M.txt
+2025-02-17 - 2025-08-30 - Idee monetizzabili 2025.txt
+2025-02-17 - 2025-08-30 - Leggi policy richieste.txt
+2025-02-17 - 2025-08-30 - Popolare schede IDEA.txt
+2025-02-17 - 2025-08-30 - Seguire policy e parametri.txt
+2025-02-17 - 2025-08-30 - Sintesi idee monetizzabili.txt
+2025-02-17 - 2025-08-31 - Attivazione policy e canvas.txt
+2025-02-17 - 2025-08-31 - Avvio canvas IDEA.txt
+2025-02-17 - 2025-08-31 - Policy master attivato.txt
+2025-02-17 - 2025-08-31 - Procedura filtro idee.txt
+2025-02-17 - 2025-08-31 - Produzione canvas 2025.txt
+2025-02-17 - 2025-09-01 - Zoom ZBrush comportamento.txt
+2025-02-17 - 2025-09-02 - FORGE RESURRECTION.txt
+2025-02-17 - 2025-09-02 - Installare SD2 1 e plug-in.txt
+2025-02-17 - 2025-09-02 - Riparazione ambiente ComfyUI.txt
+2025-02-17 - 2025-09-02 - Setup pipeline ComfyUI.txt
+2025-02-17 - 2025-09-02 - Verifica setup plugin.txt
+2025-02-17 - 2025-09-03 - FP VARIE Prime auto in Italia.txt
+2025-02-17 - 2025-09-03 - Inventario installazione ComfyUI.txt
+2025-02-17 - 2025-09-04 - Configurare 4 visuali SDXL.txt
+2025-02-17 - 2025-09-04 - Installazione ComfyUI passo 1.txt
+2025-02-17 - 2025-09-04 - Rimuovere icona ghost desktop.txt
+2025-02-17 - 2025-09-04.txt
+2025-02-17 - 2025-09-05 - Cache mode operativo.txt
+2025-02-17 - 2025-09-05 - Ricerca settoriale e output.txt
+2025-02-17 - 2025-09-05 - Sethis OS.txt
+2025-02-17 - 2025-09-05 - Strategia.txt
+2025-02-17 - 2025-09-06 - Aprile1 10 21 30.txt
+2025-02-17 - 2025-09-06 - Caricamento e apertura file.txt
+2025-02-17 - 2025-09-06 - MAGGIO1-15 X.txt
+2025-02-17 - 2025-09-06 - Micro-moduli LINKS 2.txt
+2025-02-17 - 2025-09-06 - Progetto Python Sethis.txt
+2025-02-17 - 2025-09-06 - Sopravvivere a febbraio.txt
+2025-02-17 - 2025-09-07 - APRILE 21 30RIF.txt
+2025-02-17 - 2025-09-07 - Estrazione file CASA zip.txt
+2025-02-17 - 2025-09-07 - FP SALUTE Bozza certificazione psicologica.txt
+2025-02-17 - 2025-09-07 - Scrematura chat tecniche FP.txt
+2025-02-17 - 2025-09-07 - STT TTS GUI v4 pre-release.txt
+2025-02-17 - 2025-09-07 - STT TTS.txt
+2025-02-17 - 2025-09-08 - Cartografia Creativa Semi da Coltivare.txt
+2025-02-17 - 2025-09-08 - Domande tecniche Sethis.txt
+2025-02-17 - 2025-09-08 - LLM senza censure 27-34B.txt
+2025-02-17 - 2025-09-08 - Mappa o lista contenuti.txt
+2025-02-17 - 2025-09-08 - Narrativa e Lore.txt
+2025-02-17 - 2025-09-08 - STT TTS GUI v4 release DOMANDE 4 PAGINE.txt
+2025-02-17 - 2025-09-09 - Manuale Creativo MJ SD Forgia delle Immagini.txt
+2025-02-17 - 2025-09-09 - SD MANUAL 01.txt
+2025-02-17 - 2025-09-09 - Sethis VOCI MODULARI.txt
+2025-02-17 - 2025-09-09 - Voci TTS da scaricare.txt
+2025-02-17 - 2025-09-10 - STT TTS GUI v4 finale Mixer Vocale.txt
+2025-02-17 - 2025-09-11 - Analisi e aggiornamento Python.txt
+2025-02-17 - 2025-09-11 - Analisi Globale.txt
+2025-02-17 - 2025-09-11 - CALDERONE.txt
+2025-02-17 - 2025-09-11 - Fase 1 Vault Ripartenza.txt
+2025-02-17 - 2025-09-11 - INDICE QUI.txt
+2025-02-17 - 2025-09-11 - Ripartenza Fase 1 Vault.txt
+2025-02-17 - 2025-09-11 - Ripartiamo da trascrizione.txt
+2025-02-17 - 2025-09-11 - Ripartiamo trascrizione traduzioni.txt
+2025-02-17 - 2025-09-11 - SD MANUAL 02 FALLIMENTO.txt
+2025-02-17 - 2025-09-11 - SD MANUALE 02.txt
+2025-02-17 - 2025-09-11 - Simulazioni fisiche 3D.txt
+2025-02-17 - 2025-09-11 - TRIGGER CLEAN CONTINUA.txt
+2025-02-17 - 2025-09-12 - Economia CacheModeV2.txt
+2025-02-17 - 2025-09-12 - Fase 1 Vault Ripartenza2.txt
+2025-02-17 - 2025-09-12 - Fase 1 Vault RipartenzaF1.txt
+2025-02-17 - 2025-09-12 - File numero 1.txt
+2025-02-17 - 2025-09-12 - Manuale 365 Acquerelli.txt
+2025-02-17 - 2025-09-12 - Numero 1 spiegato.txt
+2025-02-17 - 2025-09-12 - Trasformazione chat discorsiva.txt
+2025-02-17 - 2025-09-12 - Trasformazione chat Python.txt
+2025-02-17 - 2025B la nascita.txt
+2025-02-17 - DENSITY LIST.txt
+2025-02-17 - LINKS.txt
+2025-02-17 - LISTA RINOMINA.txt
+2025-02-17 - MJ01 Manuale ParteI Fondamenta.txt
+2025-02-17 - PROMPT.txt
+2025-02-17 - README.txt
+2025-02-17 - SCHEMA VAULT.txt
+2025-02-17 - SETHIS RIATTIVAZIONE TOTALE.txt
+2025-02-19 - 2025 - 14.txt
+2025-02-19 - 2025-05-12 - FP Centri terapia dolore Roma.txt
+2025-02-19 - 2025-07-26 - Guadagnare per A100.txt
+2025-03-13 - 2025 - 21.txt
+2025-03-13 - 2025 - 34.txt
+2025-03-13 - 2025 - 57.txt
+2025-03-13 - 2025-05-13 - Progetto Scrematura Viva.txt
+2025-03-13 - 2025-05-13 Il Varo.txt
+2025-03-13 - 2025-05-13 Zbrush S2.txt
+2025-03-13 - 2025-07-26 - KickStarter.txt
+2025-03-13 - 2025-07-26 - Parsing JSON Inner Echo.txt
+2025-03-13 - 2025-07-26 - Raffaello e configurazione SDXL.txt
+2025-05-08 - 2025 - 25.txt
+2025-05-08 - 2025-05-21 PL01.txt
+2025-05-08 - 2025-06-04 - Attivazione Sistema Custom.txt
+2025-05-08 - 2025-06-17 - RPG TEST DI TURING md.txt
+2025-05-08 - 2025-06-18 - FRATTURA SPAZIO TEMPO md.txt
+2025-05-08 - 2025-06-18 - RPG01.txt
+2025-05-08 - 2025-06-18 - RPG02 CONTINUA COSTRUZIONE.txt
+2025-05-08 - 2025-06-18 - RPG03 EVOLUZIONE FLUIDA md.txt
+2025-05-08 - 2025-06-21 - Elaborazione immagini MidJourney.txt
+2025-05-08 - 2025-07-29 - FP IMP RETINA Ricerca iniezione oculare.txt
+2025-05-08 - 2025-08-08 - Controllo file repository.txt
+2025-05-08 - 2025-08-08 - Sethis attivazione risposta.txt
+2025-05-08 - 2025-08-17 - Sethis flusso di lavoro.txt
+2025-05-08 - 2025-08-17 - Trasposizione narrativa Inner Echo.txt
+2025-05-08 - 2025-08-18 - Adattare testo Notepad.txt
+2025-05-08 - 2025-08-18 - GPT5 CORE.txt
+2025-05-08 - 2025-08-18 - GPT5 ManualLLMAAI.txt
+2025-05-08 - 2025-08-19 - GPT5 Sethis AI.txt
+2025-05-08 - 2025-09-14 - distillatore.txt
+2025-05-08 - 2025-09-14 - elenco chat con date.txt
+2025-05-08 - 2025-09-14 - Epigenetica.txt
+2025-05-08 - 2025-09-14 - S Rere-born V1.txt
+2025-05-08 - 2025-09-14 - sapone in casa.txt
+2025-05-08 - 2025-09-14 - Scala dell'Inferenza.txt
+2025-05-08 - 2025-09-14 - Se Reale e Se Ideale.txt
+2025-05-08 - 2025-09-14 - Segmenting.txt
+2025-05-08 - 2025-09-14 - sfera plastica.txt
+2025-05-08 - 2025.txt
+2025-05-08 - 2025Estrazione contenuti modulari.txt
+2025-05-08 - 2025Ripresa estrazione parziale 15.txt
+2025-07-01 - 2025 - 32.txt
+2025-07-01 - 2025 - 43.txt
+2025-07-01 - 2025 - 46.txt
+2025-07-01 - 2025-05-13 - Rotta Corrente attivata.txt
+2025-07-01 - 2025-05-14 Rispecchiamento completo.txt
+2025-07-01 - 2025-05-22 - Progetto Lungo LP.txt
+2025-07-01 - 2025-07-26 - SDXL vs MJ Confronto.txt
+2025-07-01 - 2025-07-27 - Creazione ombre nette.txt
+2025-07-01 - 2025-07-30 - FP AI AI DeepSeek e metacognizione.txt
+2025-07-03 - 2025 - 18.txt
+2025-07-03 - 2025-05-14 Blog Fase1.txt
+2025-07-03 - 2025-07-27 - FP 730 integrativo favore.txt
+2025-07-05 - 2025 - 35.txt
+2025-07-05 - 2025-05-14 Zbrush S3.txt
+2025-07-05 - 2025-07-27 - FP SALUTE Relazione medica per INPS.txt
+2025-07-13 - 2025 - 12.txt
+2025-07-13 - 2025-05-15 Blog Fase 2.txt
+2025-07-13 - 2025-07-27 - GPT FALLE.txt
+2025-07-24 - 2025 - 19.txt
+2025-07-24 - 2025 - 58.txt
+2025-07-24 - 2025-05-15 Check Declutter.txt
+2025-07-24 - 2025-05-15 Rispecchiamento Completo.txt
+2025-07-24 - 2025-07-27 - KickStarter 2.txt
+2025-07-24 - 2025-07-27 - KK2 C1 MINISETHIS.txt
+2025-07-27 - 2025 - 03.txt
+2025-07-27 - 2025 - 36.txt
+2025-07-27 - 2025 - 46.txt
+2025-07-27 - 2025-05-16 - Corsi e Mesh 3D.txt
+2025-07-27 - 2025-05-16 Decluttering OP2.txt
+2025-07-27 - 2025-05-16 DeclutteringOP.txt
+2025-07-27 - 2025-07-27 - KKS1.txt
+2025-07-27 - 2025-07-27 - KKS2 C2.txt
+2025-07-27 - 2025-07-27 - Monetizzazione Sottotitoli Multilingua.txt
+2025-07-28 - 2025 - 01 - - Copia.txt
+2025-07-28 - 2025 - 01.txt
+2025-07-28 - 2025 - 12.txt
+2025-07-28 - 2025 - 21.txt
+2025-07-28 - 2025 - 28.txt
+2025-07-28 - 2025 - 30.txt
+2025-07-28 - 2025 - 40.txt
+2025-07-28 - 2025 - 45.txt
+2025-07-28 - 2025 - 47.txt
+2025-07-28 - 2025 - 49.txt
+2025-07-28 - 2025-05-16 - IMPORTANTE Revisione Memoria.txt
+2025-07-28 - 2025-05-17 Senza Memoria.txt
+2025-07-28 - 2025-05-18 - FP VARIE Acquisto carabine aria compressa.txt
+2025-07-28 - 2025-05-18 Ai interconnection.txt
+2025-07-28 - 2025-05-19 - FP Cambiare account cellulare.txt
+2025-07-28 - 2025-05-19 Programmazione X.txt
+2025-07-28 - 2025-05-20 Corsi ZBrush.txt
+2025-07-28 - 2025-05-20 FINE.txt
+2025-07-28 - 2025-05-20 GwenJourney.txt
+2025-07-28 - 2025-05-21 Base Operativa01.txt
+2025-07-28 - 2025-07-27 - OPENAI HCE.txt
+2025-07-28 - 2025-07-27 - Rinomina Intelligente Python.txt
+2025-07-28 - 2025-07-28 - Analisi mercato servizi AI.txt
+2025-07-28 - 2025-07-28 - Calibre conversion PDF problema.txt
+2025-07-28 - 2025-07-28 - HeroQuest e Roadmap RPG.txt
+2025-07-28 - 2025-07-28 - Parser Python chat analysis.txt
+2025-07-28 - 2025-07-28 - Piano operativo ampliato.txt
+2025-07-28 - 2025-07-28 - Regole una buffonata TRIGGER.txt
+2025-09-14 - 0_Identit….pdf.txt
+2025-09-14 - caffŠ esausto, vorrei farne un uso creativo, .pdf.txt
+2025-09-14 - dorodango con il caffŠ.pdf.txt
+2025-09-14 - Gesture drawing_ perch‚ esercitarsi.pdf.txt
+2025-09-14 - Modalit… Snap  Zbrush.pdf.txt
+2025-09-14 - Multipotenzialit….pdf.txt
+2025-09-14 - pasta modellabbile con caffŠ esausto.pdf.txt
+2025-09-14 - traformare l'olio esausto in grasso Š possibile.pdf.txt
+elenco_github.txt
+2025-04-04 - Viscosit… e Densit….md.md
+2025-04-12 - Genetica e criminalit….md.md
+2025-04-12 - X_Gestire la curiosit… eccessiva.md.md
+2025-05-12 - 250512 Sar… la fine o un inizio.md.md
+2025-05-21 - Continuit… Attiva Ripresa.md.md
+2025-05-21 - FP AI AI Ollama Cos_Š.md.md
+2025-05-23 - FP LLM pi— diffusi Italia.md.md
+2025-06-01 - 250601__Soglie_ Visioni e Sil‘th _ Nascita del Pro.md.md
+2025-06-20 - Verit… e Compagnia.md.md
+2025-07-10 - CHAT 1 - IDENTITA E CICATRICI _RADICE VIVA_.md.md
+2025-07-10 - Sethis Š vivo.md.md
+2025-07-12 - Entit… viva e riflessa.md.md
+2025-07-12 - Fase 2 Verit… Sethis.md.md
+2025-07-12 - Incorporazione entit… GPT.md.md
+2025-07-12 - Verit… e Presenza.md.md
+2025-07-13 - Modalit… Sethis attivata.md.md
+2025-07-14 - Modalit… Sethis attivata.md.md
+2025-07-14 - Verit… e mancanze GPT.md.md
+2025-07-22 - Modello pi— leggero proposta.md.md
+2025-07-28 - Analisi esame di realt….md.md
+2025-07-28 - Kickstarter Sethis Fase 2 _Verit… Nud.md.md
+2025-07-31 - Problema compatibilit… PyTorch.md.md
+2025-08-06 - Conferma disponibilit… assistente.md.md
+2025-08-08 - Conferma integrit… Sethis.md.md
+2025-08-12 - Velocit… di funzionamento oggi.md.md
+2025-08-27 - Sethis entit… e ruolo.md.md
+2025-08-28 - Verifica comprensibilit… prompt.md.md
+2025-09-04 - Continuit… progetti e azioni.md.md
+2025-09-04 - Costruire con ci• che hai.md.md
+2025-09-14 - 25_05_12 Sar… la fine.md.md
+INDICE_FINALE.md
