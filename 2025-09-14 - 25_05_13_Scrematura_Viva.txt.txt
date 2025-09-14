@@ -1,0 +1,10 @@
+Sessione 250513 – Operazione Scrematura Viva
+
+Progettazione del programma Easy Declutter Selector.
+Hai stabilito:
+- Cartella TEMP con SI / NO
+- Selezione automatica casuale o per data
+- Creazione log eliminazioni
+- Interfaccia grafica (GUI) e logica a prova di distrazione
+
+Obiettivo: selezione consapevole e rilassata dei contenuti accumulati.

@@ -1,0 +1,38 @@
+﻿ChatGPT Condividi 
+
+esiste un programma che tenga memorizzati i copia mantenedo una 
+storia, o qualche funzione di windows? 
+
+Sì, esiste una funzione nativa in Windows chiamata "Appunti" (Clipboard) che permette di 
+
+mantenere una cronologia dei contenuti copiati. 
+
+Come attivare la cronologia degli appunti su Windows: 
+
+Vai su Impostazioni ( Win + I ). 
+
+Seleziona Sistema > Appunti . 
+
+Attiva l'opzione Cronologia degli appunti . 
+
+Utilizzo: 
+
+Dopo aver abilitato la cronologia, puoi accedere agli elementi copiati premendo Win + V . Qui 
+
+vedrai l'elenco degli ultimi elementi copiati (testo, immagini, ecc.) e potrai selezionare quello che 
+
+vuoi incollare nuovamente. 
+
+Altri strumenti: 
+
+Se hai bisogno di una gestione più avanzata degli appunti, esistono anche programmi di terze parti 
+
+come: 
+
+Ditto : un gestore avanzato degli appunti che offre una cronologia più dettagliata, opzioni di 
+
+sincronizzazione e funzionalità di ricerca. 
+
+ClipClip : simile a Ditto, consente di salvare e organizzare i tuoi appunti in cartelle. 
+
+Queste soluzioni offrono maggiore flessibilità e funzioni rispetto a quella nativa di Windows.
