@@ -2418,6 +2418,7 @@
 - [CASIMO da ORDINARE/2025-09-12 - Trasformazione chat discorsiva.md](https://raw.githubusercontent.com/Xplorer1980/Chat/main/CASIMO%20da%20ORDINARE/2025-09-12%20-%20Trasformazione%20chat%20discorsiva.md)
 - [Capitolo 6.txt](https://raw.githubusercontent.com/Xplorer1980/Chat/main/Capitolo%206.txt)
 - [DENSITY_LIST.md](https://raw.githubusercontent.com/Xplorer1980/Chat/main/DENSITY_LIST.md)
+- [INDICE CHAT LAVORATE/x.txt](https://raw.githubusercontent.com/Xplorer1980/Chat/main/INDICE%20CHAT%20LAVORATE/x.txt)
 - [INDICE_FINALE.md](https://raw.githubusercontent.com/Xplorer1980/Chat/main/INDICE_FINALE.md)
 - [LINKS.md](https://raw.githubusercontent.com/Xplorer1980/Chat/main/LINKS.md)
 - [elenco_github.txt](https://raw.githubusercontent.com/Xplorer1980/Chat/main/elenco_github.txt)
