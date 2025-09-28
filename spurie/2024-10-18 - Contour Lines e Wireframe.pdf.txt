@@ -1,0 +1,45 @@
+﻿ChatGPT Condividi 
+
+come si chiama la visualizzazione di un modello 3d o di un modello 2d 
+in cui le linee oltre a delinare il contorno servono a intuire la direzione 
+e l'inclinazione dell'area 
+
+La visualizzazione di un modello 3D o 2D in cui le linee sono utilizzate per delineare il contorno e al 
+
+contempo suggerire la direzione e l'inclinazione dell'area si chiama visualizzazione con linee di 
+
+contorno o contour lines . Queste linee possono essere sia iso-curves (curve isoparametriche che 
+
+indicano la variazione della superficie in termini di parametri u/v nei modelli NURBS), sia curve di 
+
+livello (usate per rappresentare l'altitudine o la profondità su mappe topografiche). 
+
+Nel contesto 3D, questo approccio è spesso usato per enfatizzare la forma e la curvatura di una 
+
+superficie, aiutando l'occhio a intuire la tridimensionalità dell'oggetto, anche quando visualizzato su 
+
+uno schermo 2D. 
+
+wire frame ha a che fare? 
+
+Sì, il wireframe è strettamente correlato! Un wireframe è una rappresentazione di un modello 3D 
+
+utilizzando solo linee per mostrare la struttura geometrica dell'oggetto, senza superfici o texture. Le 
+
+linee di un wireframe delineano i bordi degli oggetti e le loro intersezioni, consentendo di vedere 
+
+attraverso il modello e intuire la forma e l'inclinazione delle varie superfici. 
+
+Anche se nel wireframe non ci sono linee dedicate specificamente a indicare la direzione o 
+
+l'inclinazione di un'area, la disposizione delle linee e la loro densità aiutano comunque a capire 
+
+l'orientamento delle superfici, in modo simile alle linee di contorno o alle iso-curves nei modelli più 
+
+complessi. 
+
+In sintesi, il wireframe è una modalità di visualizzazione che espone l'ossatura del modello e si può 
+
+usare per analizzare la struttura geometrica, ma non è specificamente focalizzato sulla 
+
+rappresentazione delle curve di superficie come farebbero le linee di contorno.

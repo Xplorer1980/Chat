@@ -1,0 +1,58 @@
+﻿ChatGPT 4o Memoria piena Condividi 
+
+come si scorre tra i tab di chrome? 
+
+Per scorrere tra i tab di Chrome, puoi utilizzare diverse combinazioni di tasti rapidi in base al sistema 
+
+operativo. Ecco le principali: 
+
+Su Windows e Linux 
+Passare al prossimo tab (a destra): 
+
+Ctrl + Tab 
+
+Oppure: Ctrl + Page Down 
+
+Passare al tab precedente (a sinistra): 
+
+Ctrl + Shift + Tab 
+
+Oppure: Ctrl + Page Up 
+
+Aprire un tab specifico (fino al nono): 
+
+Ctrl + [numero del tab] (ad esempio, Ctrl + 1 per il primo, Ctrl + 2 per il secondo, 
+
+ecc.). 
+
+Nota: Ctrl + 9 va sempre all'ultimo tab. 
+
+Su macOS 
+Passare al prossimo tab (a destra): 
+
+Command + Option + → (freccia destra) 
+
+Oppure: Control + Tab 
+
+Passare al tab precedente (a sinistra): 
+
+Command + Option + ← (freccia sinistra) 
+
+Oppure: Control + Shift + Tab 
+
+Aprire un tab specifico (fino al nono): 
+
+Command + [numero del tab] (ad esempio, Command + 1 per il primo, Command + 2 per il 
+
+secondo, ecc.). 
+
+Nota: Command + 9 va sempre all'ultimo tab. 
+
+Con il Mouse 
+Scroll con la rotella del mouse: Se tieni premuto il tasto centrale del mouse (rotella) e muovi 
+
+lateralmente, puoi scorrere tra i tab. 
+
+Clic sulle icone dei tab: Passa direttamente al tab desiderato cliccandolo. 
+
+Se hai bisogno di altre informazioni o desideri personalizzare questi comandi, fammi sapere! ��
