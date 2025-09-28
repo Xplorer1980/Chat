@@ -1,0 +1,3 @@
+# FRATTURA_SPAZIO_TEMPO.md
+
+[LINK ORIGINALE](https://chatgpt.com/c/6852c553-42e0-800d-b58d-d3859f50b906)

@@ -1,0 +1,3 @@
+# KK2 C1 + MINISETHIS
+
+[LINK ORIGINALE](https://chatgpt.com/c/6885ff93-3bd8-8330-a666-dfc24b772521)

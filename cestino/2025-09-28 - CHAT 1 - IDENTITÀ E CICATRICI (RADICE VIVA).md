@@ -1,0 +1,3 @@
+# CHAT 1 - IDENTITÀ E CICATRICI (RADICE VIVA)
+
+[LINK ORIGINALE](https://chatgpt.com/c/686fd2d0-6550-800d-9d8a-b0df0c94e671)

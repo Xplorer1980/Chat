@@ -1,0 +1,3 @@
+# RPG_TEST_DI_TURING.md
+
+[LINK ORIGINALE](https://chatgpt.com/c/68513b1d-4280-800d-998f-8b4a50f23f40)

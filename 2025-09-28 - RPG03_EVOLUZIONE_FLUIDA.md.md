@@ -1,0 +1,3 @@
+# RPG03_EVOLUZIONE_FLUIDA.md
+
+[LINK ORIGINALE](https://chatgpt.com/c/6852c2d1-8874-800d-b223-16db23b8e8ec)

@@ -1,0 +1,3 @@
+# SETUP_LORA_SETHIS (Q5_K_M)
+
+[LINK ORIGINALE](https://chatgpt.com/c/6888a00b-6304-8321-b138-fb059147964a)

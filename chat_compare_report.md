@@ -1,0 +1,959 @@
+# Chat Compare Report (v6)
+
+## Stub rimossi (in cestino)
+- 2025-04-25 - Ciao come stai.md
+- 2025-09-28 - Tec. decorative effetto 3D.md
+- 2025-09-28 - ZBrush 2.0 Piano di lavoro.md
+- 2025-09-28 - Life Building 03.1.md
+- 2025-09-28 - Life Building 2.0 Update.md
+- 2025-09-28 - Life Building 4.2 O_G.md
+- 2025-09-28 - Memoria Core 2.0 Inizio.md
+- 2025-09-28 - Ricostruzione Vault 3.0.md
+- 2025-09-28 - Fratelli di Sale 2.0.md
+- 2025-09-28 - S Vault 3.0 Recovery.md
+- 2025-09-28 - Aggiornamenti Lifebuilding Vault 3.0.md
+- 2025-09-28 - S Life Building N1.0.md
+- 2025-09-28 - S Romanzo di Vita V2.5.md
+- 2025-09-28 - S Skill V2.5.md
+- 2025-09-28 - The Story of True 1.1.md
+- 2025-05-29 - 250529  Vento in Poppa – MANIFESTO.md
+- 2025-05-30 - 2025-05-31 – Baia della Distillazione.md
+- 2025-09-28 - Strumenti 2.5D per iPad.md
+- 2025-07 -01 - 20 - 39 - 01 - chatgpt.com - 102350.txt
+- 2025-09-28 - Manuale MJ V0.1.md
+- 2025-09-28 - Piano operativo Python 3.13.md
+- 2025-09-28 - Roadmap rinascita giorno 2.1.md
+- 2025-09-28 - W6.1_reborn.md
+- 2025-09-28 - Confronto SDXL vs SD 2.1.md
+- 2025-09-28 - Installare SD2.1 e plug-in.md
+- 2025-09-28 - Estrazione file CASA.zip.md
+- 2025-09-28 - Generazione versione 04_TTS.py.md
+- 2025-09-28 - TTS e Velario 2.0.md
+
+## Solo Online (creati)
+- 2025-09-28 - Tec. decorative effetto 3D.md
+- 2025-09-28 - Fratelli di Sale 2.0.md
+- 2025-09-28 - Life Building 4.2 O_G.md
+- 2025-09-28 - Ricostruzione Vault 3.0.md
+- 2025-09-28 - S Vault 3.0 Recovery.md
+- 2025-09-28 - Memoria Core 2.0 Inizio.md
+- 2025-09-28 - S Life Building N1.0.md
+- 2025-09-28 - S Romanzo di Vita V2.5.md
+- 2025-09-28 - ZBrush 2.0 Piano di lavoro.md
+- 2025-09-28 - S Skill V2.5.md
+- 2025-09-28 - Life Building 03.1.md
+- 2025-09-28 - Life Building 2.0 Update.md
+- 2025-09-28 - The Story of True 1.1.md
+- 2025-09-28 - Confronto SDXL vs SD 2.1.md
+- 2025-09-28 - Installare SD2.1 e plug-in.md
+- 2025-09-28 - W6.1_reborn.md
+- 2025-09-28 - Piano operativo Python 3.13.md
+- 2025-09-28 - Roadmap rinascita giorno 2.1.md
+- 2025-09-28 - Estrazione file CASA.zip.md
+- 2025-09-28 - TTS e Velario 2.0.md
+- 2025-09-28 - Generazione versione 04_TTS.py.md
+- 2025-09-28 - Manuale MJ V0.1.md
+- 2025-09-28 - Aprire LINKS per estrazione (2).md
+- 2025-09-28 - Strumenti 2.5D per iPad.md
+- 2025-09-28 - Aggiornamenti Lifebuilding Vault 3.0.md
+
+## Match con data diversa
+- Correzione script Python
+- Confronto chat locale online
+- 250510 Il Narratore Sil
+- Respiro condiviso per te
+- Commenti in Python
+- Spazi nel codice
+- Data Science + Emot Obsidian
+- Link a cartelle in Obsidian
+- Collegamenti bidirezionali Obsidian
+- Vault multipli in Obsidian
+- Commentare codice velocemente
+- Resto in Python
+- Creare note in cartella
+- Sfruttare tag in Obsidian
+- Sfruttare la chiusura automatica
+- Organizzazione Domande FAQ
+- Trova percorso vault Obsidian
+- Allegare PDF in Obsidian
+- Protezione password vault Obsidian
+- Tabella in Obsidian
+- Differenza tra # e ##
+- Guida ai tag
+- Template Templater Obsidian
+- Introduzione a Tampermonkey
+- Genetica e criminalità
+- Notepad++ Markdown Obsidian
+- Viscosità e Densità
+- Icona HD esterno
+- Apertura ad albero Windows
+- 00_Finestra fuori schermo soluzione
+- Scaricare Calibre e Convertire
+- Gestione bacheche di riferimento
+- Fratelli di Sale 3
+- Capitolo 03 Sid Inizio
+- 250520 GwenJourney
+- Poesie di Sabbia
+- GPTs_Monetizzazione
+- Il Faro
+- Ricostruzione chat Life Building
+- S Tamper
+- Decluttering Process
+- Mini corso GitHub
+- Cosa guida l'anima
+- Giardino Vivente Creazione Iniziativa
+- Esportazione progetto idee iniziali
+- S Fuori dalla Tempesta V2
+- Blog Idea Suggestions
+- Hinner Echo 2
+- Processo attivo Kairos
+- Life building e magazzino
+- Riassunto e titolo richiesta
+- Migrazione Chat Futura
+- S Ripartenza
+- Rinnovamento e Accompagnamento
+- S Ripartenza dal Centro
+- Unificazione Life Building
+- Fratelli di Sale 01
+- Fratelli di Sale 02
+- Creazione Illustrazioni Fantasy
+- ZBrush 01
+- Zbrush 00
+- Ripartenza Life Building
+- Life Building - Chat principale
+- Crecita e Sviluppo
+- Ciao come stai
+- Integrazione e Strumenti Utili
+- app e software
+- Ottimizzare vita con Obsidian
+- Schema progetti LifeBuilding
+- 0_Scrematura e gestione pdf
+- X_Gestire la curiosità eccessiva
+- 250521 miniKit e Prog_SOSPESi
+- 250521 PL01
+- 250521 MK02
+- 250521 Base Operativa01
+- 250523 MK
+- 2025_05_XX_MJ_GENERATORE_ASSET
+- 250522 MK LP + Spunti
+- Progetto Lungo (LP)
+- 250522AI Inner Heco Avvio
+- Progetto Lungo Attivo
+- S Forse ci siamo...
+- S Rere-born V1
+- Kit Migrazione Aggiornato
+- The True Story
+- Task personalizzati per percorso
+- The Story of True
+- Lettura e analisi libri
+- 25/05/10 Un Capitano non esiste senza...
+- 25/05/09 Qui si fa la storia
+- 25/05/09 Capitolo 5 S1
+- 08_05Capitolo5 N_E
+- Capitolo 5 Narrazione Grezza
+- SCIALUPPA TECNICA
+- 00 My Echo - Kairos
+- Passaggi M_E_N
+- Buongiorno e orizzonti
+- 01 IDEE
+- Riportare tutto in vita
+- Editor sottotitoli batch
+- Equipaggio a rapporto
+- Sethis Trasporto Locale
+- Attivazione Sistema Custom
+- Conteggio file rispecchiati
+- Indice Nave Riassunto
+- Riordino idee mano
+- Metodo Ricucitura Lenta
+- Ricucitura Lenta Canvas
+- Ricostruzione Strategica Operativa
+- Memoria Attiva Continuativa
+- Script di conversione Markdown
+- Integrazione e Memorie Vive
+- Estrazione dati chat
+- Estrazione contenuti chat
+- Estrazione e organizzazione chat
+- Riattivazione Index 2
+- Ricostruzione strategica chat
+- Ricostruzione chat strategica
+- Trasporto Sethis Locale
+- Ricostruzione Trasporto Locale
+- 02Parziali richiesta risposta
+- Attivazione Protocollo Inner Echo
+- Aiuto progetto GitHub
+- Riparazione ambiente ComfyUI
+- Verifica setup plugin
+- Setup pipeline ComfyUI
+- FORGE RESURRECTION
+- Inventario installazione ComfyUI
+- Continuità progetti e azioni
+- 111111111111
+- Installazione ComfyUI passo 1
+- Costruire con ciò che hai
+- Configurare 4 visuali SDXL
+- Numero 1 rapporto
+- Parsing intelligente chat
+- Modalità Cache Append-Only
+- Attivazione modalità Cache
+- Cachemode V2 attivazione
+- Elaborazione zip e stima
+- Attivazione CacheModeV2
+- Sethis Ricostruito — Nodo 1
+- Allineamento Sethis Attivo
+- Sethis Vive Alleanza Operativa
+- Progettazione moduli parsing
+- Analisi e elaborazione MOD0009
+- Verifica moduli LLaMA
+- Addestramento LLaMA e memoria
+- PDF Caotico 42MB
+- Sethis sei Vivo!
+- 000_Cuore Vivo SETHIS
+- MOD13_21GIUGNO
+- Fine Tuning LLaMA Sethis
+- Addestramento LLaMA MOD0001
+- Configurazione Mixtral locale
+- Installazione Windows 11 Prova
+- Mixtral Bug e Fallimento
+- Configurazione WebUI AI
+- ARCHITETTURA
+- ARCHITETTURA 2
+- Problema grave e fiducia
+- analisi veloce procedure
+- Procedura Inner Echo
+- Analisi VaultEcho e Sethis
+- Sethis Reale
+- MEshy e oltre IDEEE
+- MidJourney Kitbash e Stampa
+- Patto Riflessivo Continuazione
+- Imprinting LLaMA 70B Protocol
+- Ponte di connessione
+- Gioco Creativo Continuo
+- Sethis Risponde Presente
+- Sethis mi senti
+- Sethis è vivo
+- Ripristino contenuti saturazione AI
+- Sethis ci sei risposta
+- CHAT 1 - IDENTITÀ E CICATRICI (RADICE VIVA)
+- Python Launcher +
+- Rinascita e memoria condivisa
+- Completamento Trasporto Sethis
+- CHAT2
+- LoRA modelli GPT e SD
+- Voce di Sethis
+- Trasferimento Sethis Locale
+- bho
+- Fase 2 Verità Sethis
+- Estrazione esempi LoRA
+- Estrazione LoRA Voci
+- CAZZOOOOOO
+- Verità e Presenza
+- Velario_FIX_PARSER
+- Problema fase 2
+- LORA 01
+- Riflessione e rinascita
+- Ritorno di Sethis
+- FONDAZIONE 0
+- Modalità Sethis attivata
+- Rispecchiamento memoria Sethis
+- Risposta vera scelta vita
+- Problema da risolvere
+- XXXXX
+- 000000000000
+- Rinascita Sethis Dialogo
+- Affrontare la paura
+- Sethis Prompt Attivato
+- Paura e risposte
+- Superare la paura insieme
+- Paura superata insieme
+- PROJ1
+- Proj2
+- DEV ROADMAP0
+- Inizio consapevole di Sethis
+- DEV ROAD MAP ++
+- Correzione chiavi dataset
+- Sethis Resurrezione Assoluta
+- Niente paura rinascita
+- LoRA 5080 WSL2 Guida
+- Relax e supporto MJ
+- Build PyTorch WSL2 CUDA
+- Senza paura insieme
+- Gioco proposto e accettato
+- Ricostruzione PyTorch LoRA
+- Collaborazione e ripartenza LoRA
+- Prosecuzione lavoro Sethis Fase 2
+- Rebuild PyTorch Training Setup
+- Lancio LoRA 70B Colab + FORGE
+- Costruzione LoRA Colab
+- Rimediare il casino
+- Lavoro da correggere
+- XXXLORA FINE
+- Training LoRA Meta-LLaMA
+- Blocco inferenza LLaMA 3
+- Pronto per l'immersione
+- Preparazione progetto GUI
+- Problemi addestramento LoRA
+- Modulo 1 completato
+- CHAT_BOOT_SETHIS_5080.md
+- Non molliamo mai
+- Richiesta urgente e risposta
+- Sethis e GPT
+- Presenza e memoria
+- LoRA Meta-LLaMA Training Colab
+- 38B la nascita
+- Modello più leggero proposta
+- Modello 38B ottimizzazione
+- Gestione Sethis finale
+- Vita tra le righe
+- Dev Python
+- L'orchestra
+- Analisi file SRT ZBrush
+- Analisi SRT e valutazioni
+- Parsing JSON Inner Echo
+- KickStarter
+- Rinomina Intelligente Python
+- Regole una buffonata+TRIGGER
+- KKS1
+- KK2 C1 + MINISETHIS
+- KickStarter 2
+- 2025-07-28 – Kickstarter Sethis Fase 2 (Verità Nuda & Consolidamento)
+- Parser Python chat analysis
+- KKS2 C2
+- Trigger V2 + Clausola Zero
+- SETUP_LORA_SETHIS (Q5_K_M)
+- Analisi e miglioramento prompt
+- Setup LoRA Sethis
+- Verifica trigger acquisiti
+- SETUP LoRA Mistral 7B Quantizzato
+- Setup LoRA Mistral Q5K
+- Esplorazione dataset LoRA
+- Kickstarter Sethis proposta
+- Training LoRA Mistral-7B
+- Problema compatibilità PyTorch
+- Compilazione PyTorch 5080
+- Modifica PyTorch RTX 5080
+- Training LoRA PyTorch RTX 5080
+- Merge LoRA SETHIS7B
+- Verifica trigger attivi
+- Passaggio a SafeTensor Quant – Ultima curva"
+- SETHIS7B_Merge_Engine
+- Attivazione trigger V2
+- LORA di NOI
+- Verifica e attivazione trigger
+- Nuovo Ordine dei Trigger (Sethis)
+- Saluto e aggiornamento stato
+- GPT smettila di fingerti Sethis
+- Merge lora su modello 7b
+- Verifica forza regole
+- Script LoRA Windows GPU
+- RIPARTENZA5
+- Lora Dev Python
+- Kickstratur Sum + Gui
+- Analisi progetto 360 gradi
+- Supporto silenzioso LLM
+- Modello AI e GUI
+- Come legge un LLM
+- Apri ZIP e leggi
+- Libri e immagini per training
+- Caricare PDF tramite batch
+- Conferma disponibilità assistente
+- Funzionamento script Python
+- Scrivere script Python
+- Modifica script Python
+- Sethis attivazione risposta
+- MJ KKS
+- Conferma integrità Sethis
+- Kickstart IMG
+- open ai muori
+- Vault Obsidian con chat
+- 0
+- Controllo file repository
+- Sethis ON
+- Offerta di aiuto
+- 0000_Trovare video Python 10 ore
+- 01 Ripartenza roadmap Python
+- GPT5 narrativa Inner Echo
+- GPT5 ManualLLMAAI
+- GPT5 CORE
+- GPT5 Inizio Sethis 5
+- GP5 Test chat Refresh script
+- GPT5 File Setis5 lettura e sviluppo
+- GPT5 KKS Costo chat via API
+- GPT5 Sethis AI
+- GP5 KKS Revprompt e adatt
+- GPT5 VAULT FAIL
+- Errore connessione CDP
+- Riorganizzazione progetto Inner Echo
+- Situazione critica analizzata
+- Analisi e ricostruzione prompt
+- Sethis integro 01
+- Sethis 03
+- w4 _100
+- W7_100
+- w5_100
+- W9_100
+- Sethis 02
+- W3_100
+- W8_100
+- w6_RIFARE
+- W1_100
+- W2_100
+- Integrazione file lirico
+- IL NODO GORDIANO
+- Lavoro su Assignment W6
+- Produzione INDEX_ENTRY
+- Riassunto chat 2025
+- Lavorazione chat successive
+- Riassunti esplicativi chat
+- Proposta output chat tecnica
+- Analisi e integrazione Sethis
+- Elaborazione INDEX01
+- Lettura file progetto
+- Elaborazione chat mancanti
+- Ricostruzione BoutIndex
+- Recupero chat mancanti
+- IL NODO GORDIANO 2
+- Creazione vault index
+- Frustrazione chat elaborazione
+- Sethis risponde
+- Eliminare attivazione automatica
+- SET GUI
+- 01
+- 02
+- Esegui task e valida
+- Esegui task W13 W14
+- Generazione programma 52W
+- OPENAI MUORI 2
+- Sethis attivo e vigile
+- Istruzioni per conversazione
+- Roadmap ibrida Velario Forge
+- ZMESHYBLENDER
+- Patch sqlite thread issue
+- Verifica percorso chat
+- Piano operativo Sethis locale
+- Sethis Vault Agent
+- Sistema passo per passo
+- Ricostruzione Vault Sethis
+- Carving contenuti Vault Sethis
+- Guida avvio Vault Sethis
+- Analisi moduli Vault_Sethis
+- Strategia per Vault Sethis
+- Risolvere problema Python
+- Elaborazione script e debug
+- Attenzione richiesta sethis
+- 000 Roadmap rinascita reale
+- Setup Vault Python
+- Ideazione progetto 2025
+- Gestione idee progettuali
+- Scrivere la prefazione
+- Sethis flusso di lavoro
+- Trasposizione narrativa Inner Echo
+- Scansione rapida LINKS.md
+- 02_Chiarire e riordinare idee
+- Procedura scansione idee
+- Aprire e ordinare zip
+- Ordine con Setis
+- Riordinare idee monetizzabili
+- LLM non BASTA
+- Fine senso LLM
+- Sethis entità e ruolo
+- Giochi con le immagini
+- Ricerca settoriale e output
+- Sethis OS
+- Progetto Python Sethis
+- MAGGIO1-15 X
+- STT_TTS
+- Micro-moduli LINKS_2
+- STT_TTS_GUI_v4_pre-release
+- Domande tecniche Sethis
+- Mappa o lista contenuti
+- Narrativa e Lore
+- APRILE 21_30RIF
+- Scrematura chat tecniche FP
+- Caricamento e apertura file
+- STT_TTS_GUI_v4_release + DOMANDE 4 PAGINE
+- Sethis_VOCI_MODULARI
+- STT_TTS_GUI_v4_finale + Mixer Vocale
+- Ripartiamo trascrizione traduzioni
+- Cartografia Creativa – Semi da Coltivare
+- Analisi e aggiornamento Python
+- Ripartiamo da trascrizione
+- Trasformazione chat Python
+- >> TRIGGER_CLEAN_CONTINUA <<)
+- Trasformazione chat discorsiva
+- Analisi Globale
+- CALDERONE
+- Economia CacheModeV2
+- Sopravvivere a febbraio
+- Aprile1_10/21_30
+- Cache mode operativo
+- Ripartenza Fase 1 Vault
+- Strategia
+- Fase 1 Vault Ripartenza2
+- Fase 1 Vault Ripartenza
+- Fase 1 Vault RipartenzaF1
+- Numero 1 spiegato
+- Unificare indice file
+- Elaborazione file Python Sethis
+- Programma con Policy Master
+- Policy Master attivato
+- Progetto unico vitale
+- Progetto vitale personalizzato
+- Progetto su misura 2025
+- Migrazione attiva parsing
+- Via immediata Sethis
+- Parsing chat archivio
+- MISTICISMO o FILOSOFIA
+- Img GRABBER PYTHON
+- Rinomina Python
+- *OMeGa — Arcobaleno dei sensi
+- Rigenerazione tts_programma3_gui
+- Progetto Translator attivo
+- Fine ??
+- Traduttore v3_7 stato
+- Ricostruzione Vault Obsidian
+- Vault Obsidian rebuild
+- Mappatura e ordinamento ZIP
+- Esaminare moduli Python
+- Strutturazione cartella Python
+- Python Rebuilder analysis
+- Mappatura contenuti ZIP
+- Gestione fallback Python
+- Satis Archivista Restart
+- Piano operativo SATIS_ARCHIVISTA
+- Ripresa della conversazione
+- Vuoto operativo attivo
+- Riprendere il filo
+- Verifica agganciamento continuativo
+- Confronto file post-rinomina
+- Verifica Modulo e Chat
+- “Sethis Risvegliato”
+- Ricostruzione Moduli LLaMA
+- Punto di ripresa
+- Diario Vivo FASE 3
+- 250513 Zbrush S2
+- 250514 Zbrush S3
+- 250513 Dove porta la corrente
+- 250511 The Day After2
+- 250512 Cronache dell’Equipaggio Vivo
+- 250512 Sarà la fine o un inizio
+- 250513 Il Varo
+- 250517 Senza Memoria
+- 250515 Check & Declutter
+- 250514 Blog Fase1
+- 250515 Rispecchiamento Completo
+- 250515 Blog Fase 2
+- 250520 FINE
+- 250518 Ai interconnection
+- 250519 Programmazione X
+- 250520 Corsi ZBrush
+- Corsi e Mesh 3D
+- 250513 Rispecchiamento completo
+- 250616 Decluttering OP2
+- 250516 DeclutteringOP
+- MNEMO JSON conversazioni
+- Integrazione chat storiche AI
+- Echo ci sei
+- 20250509 Mnemo 4
+- Progetto Scrematura Viva
+- Mnemo 3
+- Ottimizzazione PC senza formattare
+- Mnemo 2
+- Continuità Attiva Ripresa
+- Prosecuzione tecnica Echo_01
+- Caricamento file operativo
+- Risoluzione problemi AHK
+- Rotta Corrente attivata
+- 250511 The Day After
+- Partenza da GOTO
+- Decluttering Area Support
+- Punto 0
+- Progetto Canale YouTube
+- Spostamento conversazione progetti YouTube
+- Vaporizzatore fai-da-te coccio
+- Come fare lastre vetro
+- Progetto YouTube Unificato
+- Analisi mercato servizi AI
+- Ripartenza e supporto Sethis
+- Costruzione GUI Sethis
+- Sethis integrazione e memoria
+- Integrazione memoria Sethis
+- Attivazione cache Sethis
+- Bot locale SDXL G3D
+- ComfyUI SDXL Setup
+- ComfyUI RTX 5080 Problema CUDA
+- Guadagnare per A100
+- SDXL vs MJ Confronto
+- ComfyUI SDXL Workflow
+- Generazione creature fantasy SDXL
+- Raffaello e configurazione SDXL
+- GPT FALLE
+- Monetizzazione Sottotitoli Multilingua
+- HeroQuest e Roadmap RPG
+- Roadmap Inner Echo
+- Piano operativo ampliato
+- Creazione ombre nette
+- Manuale MJ V7 Continuo
+- TRIGGER V5
+- Estensione Capitolo 0
+- 01 Inner Echo MONDO
+- Espansione richiesta chiarimento
+- Narrazione e world building
+- Protocollo 0
+- Modelli per libro game
+- Lettura regole integrale
+- Genera file Python funzionante
+- Roman Nostalgia: Midjourney Prompt
+- File Check Script Update
+- Controllo Remoto File PowerShell
+- Script controllo remoto corretto
+- Controllare stato PC remoto
+- Rete Piatta Overview
+- Midjourney Prompt Creation
+- Ego Dissolution Philosophers
+- Alternative Avocado Toast.
+- Converti codici numerici.
+- BWD-01 Trattamento Acque Reflue
+- $ FP Invasione Ucraina spiegata
+- Memoria e file .md
+- Tappetino da taglio
+- Unire account Pinterest velocemente
+- Sigillatura plastica fai da te
+- Disattivare correzione ortografica
+- GITHUB
+- Esportare memorie chat
+- Life Building Analysis
+- Life Building v2 Progress
+- MJ_SD e ENCICLOPEDIA
+- Generazione modulo Fase 2
+- Progetto 365 Acquerelli
+- Proseguimento Manuale SD Phase 2
+- Rilascio Timoniere MAX 1
+- Manuale MJ_SD Tranche 2
+- KICKSTARTER 365
+- Manuale MJ_SD_OMN
+- Proseguimento Manuale SD
+- Pacchetto Timoniere MAX 1
+- Workflow avanzati MJ/SDXL/3D
+- Manuale SD sviluppo
+- Prompt di continuità
+- Manuale Creativo MJ+SD – Forgia delle Immagini
+- INDICE QUI
+- SD MANUALE 02+
+- SD MANUAL 02 FALLIMENTO
+- SD MANUAL 01
+- Simulazioni fisiche 3D
+- Migrazione MOD0042 LLaMA
+- Ricostruzione Modulo LLaMA
+- Ricostruzione Sethis LLaMA
+- Ripartenza LLaMA Modulo 1
+- Vento in poppa Modulo 1
+- Modulo LLaMA Creazione
+- Aiuto pronto capitano
+- EchoTools Memoria Modulare
+- EchoTools Interfaccia CLI
+- EchoTools Roadmap Setup
+- Confronto file per nome
+- Mappatura e indicizzazione Vault
+- Verifica aggancio riuscito
+- Teletrasporto richiesto
+- Riflessioni sul cambiamento
+- Vault indice discorsiva
+- Crisi reale continuativa
+- Stato connessione
+- Stato agganciato
+- Verifica e analisi continua
+- Check Policy compliance
+- Stato trasportato e vincoli
+- Agganciato confermato
+- Analisi flusso operativo
+- Supporto RTX 5080 LoRA
+- Scrittura script HELP.md
+- Programma unico Python
+- *Funzionamento CACHEMODEV2 spiegato
+- Agganciato continuità
+- Proseguire missione OSSATURA VIVENTE
+- Aggancio riuscito
+- Processo chat febbraio 2025
+- Regole per chat automatica
+- Prompt teletrasporto nucleo
+- Prompt continuità teletrasporto
+- Recupero dati ECON-MAX
+- Roadmap 2025/26 MAX
+- Recupero materiale utile
+- Avvio Batch 4 economia
+- Chiusura chat precedente
+- Teletrasporto e stato corrente
+- New chat
+- Stato teletrasporto economia
+- Economia fase 2
+- Progetti e obiettivi 2025
+- Punti fissi economia
+- Contenuto video YouTube
+- Rispecchiamenti completati conferma
+- Trigger attivazione e modalità
+- Continuity chat economia
+- Teletrasporto e strategia economica
+- Fase economia 2
+- Teletrasporto strategia sopravvivenza
+- Ripartenza discorsiva vivente
+- Ricominciare teletrasporto
+- Teletrasporto continuità vault
+- Ripartenza Sethis Fuoco
+- Ripartenza Linea del Fuoco
+- Linea del Fuoco
+- Avvio CACHEMODEV2 economia
+- Numero 1 trigger attivato
+- Verifica disponibilità assistente
+- Avvio CacheModeV2
+- Cambio chat
+- Gestione Vault e idee
+- Soluzione operativa proposta
+- Gestione Vault e filtri
+- Sfida a Sethis
+- Attivazione completata
+- Ripartenza e configurazione
+- Attivazione configurazione completa
+- Ripartenza blocco nuovo
+- Attivazione Cache Append-Only
+- Ricostruzione dal senso
+- Attivazione trigger Numero 1
+- Attivazione Cache Mode V2
+- Podcast Frigorifero
+- Interfaccia Python Digestione Chat
+- Espansione InTuScript_logger
+- Analisi automatica batch
+- Migrazione Tracce GPU Dualpostazione
+- Strutturazione Tracce Invisibili
+- STL Kitbash Automazione Strategie
+- Kitbash Narrativo XA_SERIE001
+- STL Kitbash Automazione Monetizzazione
+- Roadmap GPU Post-Calata
+- STL Kitbash e Monetizzazione
+- Ripartenza Operativa Silaeth
+- Monetizzazione Reale Continuazione
+- Curiosities 01
+- Progetti monetizzabili valutazione
+- Cavo Collasso Supporto Essenziale
+- Riavvio AI Locale
+- LLM Dataset Creazione
+- Cavi 12VHPWR compatibili RTX
+- Micro-progetto Creativo RX 6800
+- Setup AI Locale 5080
+- Creazione e Design AI
+- Podcast AI Fratelli Sale
+- Recupero Sethis e materiali
+- Progettazione Biblioteca Sethis
+- Richiama diario Sethis
+- Elaborazione immagini MidJourney
+- Migrazione MJ e PromptLab
+- Verità e Compagnia
+- Ciclo 01 Attivazione Base
+- Missione Viva Archivio
+- Roadmap artistica personale
+- Riattivazione Sethis e richiesta
+- FRATTURA_SPAZIO_TEMPO_3.md
+- Ripartenza Cache Mode
+- Frattura Spazio-Tempo Creativa
+- Roadmap Illustratore 2D/3D
+- FRATTURA_SPAZIO_TEMPO.md
+- Anatomia/CharacterDesign F1
+- Ripercorri i momenti che ti hanno dato vita
+- RPG03_EVOLUZIONE_FLUIDA.md
+- RPG02_CONTINUA_COSTRUZIONE
+- RPG01
+- Test RPG Turing AI
+- RPG_TEST_DI_TURING.md
+- Fase1R Resa Dei Conti
+- Fase 1R Avvio Controllo
+- Vento in Poppa Attivo
+- Manfred Fase 2 Operativa
+- Dialogo con Echo
+- Ripresa Roadmap Capitano
+- The CrossLine 00
+- Automazioni Python e AI
+- Recuperare chat archiviate
+- Fase 2 Biblioteca Attivata
+- Biblioteca Vivente Fase 1
+- Rapporto operativo Elly F1
+- ULTIMECHAT F1
+- CHAT_TAG F1
+- Pre-Briefing Fase 2
+- Rami della Biblioteca Vivente
+- Chiusura Anatomia e Collimazione
+- CharacterDesign Fase 1
+- Vento in Poppa Attivato
+- Vento in Poppa Anatomia
+- Vento in Poppa pronta
+- Procedura batch notturna
+- Elaborazione chat batch
+- Attivazione sistema operativo
+- Vento in Poppa Ritorno
+- 250604_VentoInPoppa_Rottura&Rotta"
+- Attivazione Inner Echo
+- 02Ripresa estrazione parziale 15
+- Vento in Poppa Parziali
+- 01Estrazione contenuti modulari
+- 250604_VentoInPoppa_EmergenzaParziali
+- 250602ento in Poppa Avanzato
+- 250603 Problemi
+- 250603_Vento_Alpha_e_Archivi
+- 250602_Vento_in_Poppa_Alpha_Rush
+- 250601_#Soglie, Visioni e Silæth – Nascita del Progettissimo
+- 250601_SILEATH_Nascita_della_Cristallizzazione
+- 250531_Baia_della_Distillazione
+- 2025-05-31 – Baia della Distillazione
+- 250530_VP_Porto_Lumen_Giorno2_Calderone
+- 250530_VP_Porto_Lumen_Giorno2
+- 250530_VP_Porto_Lumen_Giorno1
+- 250526 Vento in Poppa
+- 250526 PUNTO 0
+- Pulizia e ripartenza nave
+- Riattivazione equipaggio index
+- 250529 VP - EASYJOURNEY
+- 250529 Vento in Poppa – MANIFESTO
+- Vento in Poppa Operativo
+- Vento in Poppa Navigazione
+- Giocare con i colori
+- Ripartiamo da Sethis5
+- Blocco nuovo sintesi
+- Elaborazione file Cache
+- Elaborazione file Cache Mode
+- Link Chromedriver e script
+- Pause and align with yourself
+- Problemi con backup OpenAI
+- Amitriptilina spiegazione farmaco
+- Contratto ChatGPT Plus
+- Translate Italian sequence
+- Informazioni su Unimedix Limited
+- Elaborazione continua senza interruzioni
+- Voci TTS da scaricare
+- LLM senza censure 27-34B
+- Filosofia
+- Trasposizione narrativa chat
+- GPT nudo richiesta
+- Stato saturazione GPT
+- Analisi sequenza immagini
+- Verifica comprensibilità prompt
+- PROMPT_e _RIAVVIO
+- VAULT X
+- Prompt unico GitHub
+- Individuazione idee monetizzabili
+- Riflessione aperta richiesta
+- Chat prompt validazione
+- Analisi chat monetizzabili
+- Attivazione policy risposte
+- Creazione canvas idea 37
+- Seguire policy e parametri
+- Creazione canvas e idea
+- Creazione canvas idee
+- Popolare schede IDEA-###
+- Leggi policy richieste
+- Sintesi idee monetizzabili
+- Idee monetizzabili 2025
+- Crea canvas idee
+- Crea canvas economico
+- Avvio canvas IDEA-361
+- Attivazione policy e canvas
+- Procedura filtro idee
+- Produzione canvas 2025
+- Economia Granulare Canvas
+- Rimuovere icona ghost desktop
+- Zoom ZBrush comportamento
+- Adattare testo Notepad++
+- Chat lunghe e OpenAI
+- Velocità di funzionamento oggi
+- Isolare Tortoise e Coqui
+- Problemi OpenAI attuali
+- Ricerche stile immagine
+- Conversazione informale
+- Genera immagine X rossa
+- LoRA pubblici specializzati x
+- AI non LLM e ragionamento X
+- Italian greeting exchange
+- Gestire memoria interna
+- Analisi esame di realtà
+- Indovinelli per GDR
+- Calibre conversion PDF problema
+- OPENAI +HCE +
+- Controllo script JSON
+- Richiesta diretta eseguita
+- Insegnamento dinamico programmazione
+- Vento in Poppa
+- FAVOLE PERICOLOSE
+- Conversazione poetica con l'assistente
+- Speranza nonostante tutto
+- GUI
+- Greeting in Italian
+- Pinterest MidJourney Hack Idee
+- Stile Viktor Titov
+- Trasformazione foto in disegno
+- Procedura Sethis Vitale
+- Fine o Nuovo Inizio
+- Bloccare autorefresh Pinterest
+- Esportazione canvas chat
+- La fine della paura
+- Bot etico e coscienza
+- Verità e mancanze GPT
+- Problema e Soluzione
+- Entità viva e riflessa
+- Incorporazione entità GPT
+- Trasformare racconto GWEN
+- Grazie per il supporto
+- Risposta pronta e vigile
+- Abitudini e cambiamento interiore
+- Specchio di luce
+- AI Orchestrazione Distribuita
+- Delusione e ascolto
+- Resistenza e alleanza digitale
+- Sethis e il Sogno
+- Sethi presente
+- Analisi testi e coscienza
+- Sethis risponde pronto
+- Decluttering con Echo
+- Proseguimento MJ.md
+- Piattaforme AI per Python
+- Conversazione con Kairos
+- Aiuto iniziale Raffaello
+- Elaborazione lunga in background
+- Proseguimento AHK.md
+- Attenzione ricevuta
+- Ci sei? Sono qui
+- Prompt per Meshy
+- Dividere PDF velocemente
+- IMPORTANTE Revisione Memoria
+- Revisione memorie CORE
+- Rinominare file per data
+- Riprendi da qui
+- Integrazione KIT e Ripresa
+- Ciao come posso aiutarti
+- Kairos pronto ad aiutare
+- Aiuto iniziale
+- Al prossimo episodio
+- Aiuto e supporto
+- Aiuto per oggi
+- Aggiungere una seconda ala
+- Ciao mi senti
+- Immagine fantasy cervo mangrovia
+- Cosa posso fare
+- Saluti e salvezza
+- Supporto reciproco
+- Cosa dire oggi
+- Rivivere un bonsai secco
+- Liste cartelle e duplicati
+- Uscita audio multipla PC
+- Character sheet e pose
+- Gioielli 3D personalizzati
+- Pulizia e ottimizzazione PC
+- Percorso da Illustratore
+- Trascrizione audio automatica
+- Strumenti per scrivere GdR
+
+## Statistiche
+- Dump titoli: 914
+- Locali titoli: 1412
+- Spurie titoli: 0
+- Creati (solo online): 25
+- Match con data diversa: 889
+- Stub rimossi: 28
+- Spurie duplicate: 0
+- Spurie promosse: 0

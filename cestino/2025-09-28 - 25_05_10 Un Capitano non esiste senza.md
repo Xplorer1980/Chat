@@ -1,0 +1,3 @@
+# 25/05/10 Un Capitano non esiste senza...
+
+[LINK ORIGINALE](https://chatgpt.com/c/681f071e-f6e0-800d-8c62-ea9b5ca9a389)
